@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_charger_over_voltage">Charger Overvoltage</string>
+    <string name="title_battery_over_temperature">Battery Overheating</string>
+    <string name="title_over_current_protection">Overcurrent Protection</string>
+    <string name="title_battery_over_voltage">Battery Overvoltage</string>
+    <string name="title_safety_timer_timeout">Charging Time Too Long</string>
+    <string name="title_battery_low_temperature">Low Battery Temperature</string>
+    <string name="msg_charger_over_voltage">The charging voltage is too high. Please disconnect the charger.</string>
+    <string name="msg_battery_over_temperature">Your battery is overheating. Please remove the battery.</string>
+    <string name="msg_over_current_protection">Overcurrent protection limit exceeded. Please remove the battery.</string>
+    <string name="msg_battery_over_voltage">The battery voltage is too high. Please remove the battery.</string>
+    <string name="msg_safety_timer_timeout">The phone is charged for too long. Please disconnect the charger.</string>
+    <string name="msg_battery_low_temperature">The battery temperature is too low. Please disconnect the charger.</string>
+    <string name="btn_ok_msg">Remind Later</string>
+    <string name="btn_cancel_msg">Dismiss</string>
+    <string name="thermal_over_temperature">The data service is limited due to the overheating of the communication module. If the overheating continues, the communication module will be shut down. Please move to a cool place with good signal, or turn off 4G in settings.</string>
+    <string name="thermal_clear_temperature">The overheating of the communication module is relieved. All the communication functions are restored.</string>
+</resources>

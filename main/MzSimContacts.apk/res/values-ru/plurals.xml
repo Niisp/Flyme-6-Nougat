@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Всего контактов: %d</item>
+        <item quantity="one">Всего: 1 контакт</item>
+    </plurals>
+    <plurals name="mzc_contacts_delete_confirm">
+        <item quantity="other">Удаление контактов: %s</item>
+        <item quantity="one">Удаление контактов: %s</item>
+    </plurals>
+</resources>

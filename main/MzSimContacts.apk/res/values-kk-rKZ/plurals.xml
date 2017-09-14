@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Жалпы: %d контакт</item>
+        <item quantity="one">Жалпы: 1 контакт</item>
+    </plurals>
+    <plurals name="mzc_contacts_delete_confirm">
+        <item quantity="other">%s контактіні жою</item>
+        <item quantity="one">%s контактіні жою</item>
+    </plurals>
+</resources>
