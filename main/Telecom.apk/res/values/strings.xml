@@ -736,7 +736,7 @@ On Conditional"</string>
     <string name="notification_delete">Delete</string>
     <string name="notification_unreadedRecordTitle">Unread record</string>
     <string name="notification_unreadedRecordsMsg">%s unread records</string>
-    <string name="notification_unreadedRecordsMsg_multi" formatted="false">%sperson leave %svoice message(s)</string>
+    <string name="notification_unreadedRecordsMsg_multi" formatted="false">%s person leave %s voice message(s)</string>
     <string name="notification_unreadedRecordTicker">Unread record from %s</string>
     <string name="notification_missedRecordSdErrorTitle">"'s record stops"</string>
     <string name="notification_missedRecordSdErrorText">SD card is full or unmounted</string>

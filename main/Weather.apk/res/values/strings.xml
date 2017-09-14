@@ -274,7 +274,7 @@
     <string name="weather_state">weather state</string>
     <string name="weathershare">Weather Sharing</string>
     <string name="week_weather_from_tip">%s degree(s) to</string>
-    <string name="week_weather_to_tip">%sdegree</string>
+    <string name="week_weather_to_tip">%s degree</string>
     <string name="mc_pattern_a_hour_before">1 hour ago</string>
     <string name="mc_pattern_a_minute_before">1 minute ago</string>
     <string name="mc_pattern_hour_before">, hours ago</string>
@@ -314,7 +314,7 @@
     <string name="real_temp_go_out">Good day to go out</string>
     <string name="real_time_text">Nowcast</string>
     <string name="recommendation_service">Recommendation service</string>
-    <string name="short_curve_time_text">Now%1$s20%2$s40%3$s60 min</string>
+    <string name="short_curve_time_text">Now %1$s 20 %2$s 40 %3$s 60 min</string>
     <string name="sina_weibo">Weibo</string>
     <string name="suggest_dressing_text">Makeup</string>
     <string name="suggest_hismanal_text">Allergy</string>
@@ -337,8 +337,6 @@
     <string name="install_idle_text">安装</string>
     <string name="installing_text">正在安装</string>
     <string name="mc_selectionbutton_all">All</string>
-    <string name="path_aqi_list">/aqi</string>
-    <string name="weather_scheme">mzweather</string>
     <string name="weather_status">NONE</string>
     <string name="weather_temp">no weather</string>
     <string name="widget_week_format">EEEE</string>

@@ -579,7 +579,7 @@ an account, wait for it to finish syncing and then retry). Or touch Cancel to ex
     <string name="tool_calc_create_event">Create an event</string>
     <string name="tool_calc_outofcalc">Out of supported range (1900–2099)</string>
     <string name="tool_data">Date</string>
-    <string name="tool_date_fmt" formatted="false">%syear%smonth%sday</string>
+    <string name="tool_date_fmt" formatted="false">%s year %s month %s day</string>
     <string name="tool_weekday">Weekday</string>
     <string name="tool_year">y</string>
     <string name="touch_3d_agenda">Events</string>
