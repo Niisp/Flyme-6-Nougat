@@ -57,16 +57,16 @@
     <string name="display_device">Display</string>
     <string name="durationHourMinute">%1$d h %2$d m</string>
     <string name="durationHourMinuteSecond">%1$d h %2$d m %3$d s</string>
-    <string name="durationMinuteSeconds">%1$dm %2$ds</string>
+    <string name="durationMinuteSeconds">%1$d m %2$d s</string>
     <string name="durationMinutes">%1$d m</string>
     <string name="durationSecond">%1$d s</string>
     <string name="enable_idle_run">Allow running when on standby</string>
     <string name="flash_light_power_ratio">Power used by Flashlight:</string>
     <string name="flashlight_on_time">Flashlight on time</string>
-    <string name="force_screen_on_rank">Forced awake time ranking</string>
-    <string name="force_screen_on_time">Forced awake time</string>
-    <string name="force_wakeup_rank">Forced wakeup</string>
-    <string name="force_wakeup_time">Forced awake time</string>
+    <string name="force_screen_on_rank">Forced screen-on ranking</string>
+    <string name="force_screen_on_time">Forced screen-on time</string>
+    <string name="force_wakeup_rank">Awake time ranking when on standby</string>
+    <string name="force_wakeup_time">Awake time when on standby</string>
     <string name="game_context_msg">Game mode is enabled. Continue with Do Not Disturb and palm rejection settings?</string>
     <string name="game_notice_msg">Game mode enabled, tap to set</string>
     <string name="game_setting">Configure</string>
@@ -88,6 +88,7 @@
     <string name="high_power_save_subtitle">Extend battery life by 30%</string>
     <string name="high_power_save_title">High saving</string>
     <string name="history_bat_use_chart">Power usage</string>
+    <string name="histroy_detail">Turn on power consumption history details</string>
     <string name="idle">Standby</string>
     <string name="idle_power_manager">Standby power usage management</string>
     <string name="idle_power_sum">Standby power usage:</string>
@@ -341,6 +342,7 @@
     <string name="primary_power_save_subtitle">Extend battery life by 10%</string>
     <string name="primary_power_save_title">Primary saving</string>
     <string name="run_consumption">Running Consumption</string>
+    <string name="runnint_time_unit">s</string>
     <string name="scheduled_dialog_cancel">Cancel</string>
     <string name="scheduled_dialog_ok">Enable now</string>
     <string name="scheduled_supermode_on">Enable by schedule</string>
@@ -393,7 +395,7 @@
     <string name="subtitle_audio_click_vibrate">Vibrate when Home button is pressed</string>
     <string name="subtitle_screen_blur">Realtime background blurring makes content easier to read. Turning it off will save power.</string>
     <string name="subtitle_screen_ps">Cut power consumption by up to 50%, but may cause image distortion.</string>
-    <string name="subtitle_sleep_mode">Turn on/off network connection based on your sleep patterns to save power</string>
+    <string name="subtitle_sleep_mode">Turn on/off network connections based on your sleep patterns to save power</string>
     <string name="summary_app_disable_sleep">%1$d apps banned when on standby</string>
     <string name="summary_app_enable_sleep">%1$d app(s) kept running when on standby</string>
     <string name="summary_auto_ps">Auto power saving</string>
@@ -470,6 +472,7 @@
     <string name="title_low_power_mode">Low power mode</string>
     <string name="title_low_power_remind_enter_low_power">Enable low power mode?</string>
     <string name="title_low_power_remind_enter_low_power_first_time">Configure low power mode and enable now?</string>
+    <string name="title_low_power_remind_enter_low_power_title">Your battery is less than 30%</string>
     <string name="title_low_power_remind_enter_super_mode">Enable super saving mode?</string>
     <string name="title_low_power_remind_enter_super_mode_first_time">Configure super saving mode and enable now?</string>
     <string name="title_low_power_remind_game_mode">Battery is below 10%</string>
@@ -511,8 +514,14 @@
     <string name="title_timer_ps">Saving mode</string>
     <string name="title_user_define_mode">Custom mode</string>
     <string name="title_user_ps">Custom mode</string>
+    <string name="total_bg_power_sec">Background power usage</string>
     <string name="total_bg_run_time_only_sec">%1$s running in the background, %2$d mAh of power used</string>
+    <string name="total_bg_time_sec">Running in the background %1$s</string>
+    <string name="total_bg_time_sec_no_num">Running in the background</string>
+    <string name="total_fg_power_sec">Foreground power usage</string>
     <string name="total_fg_run_time_only_sec">%1$s running in the foreground, %2$d mAh of power used</string>
+    <string name="total_fg_time_sec">Running in the foreground %1$s</string>
+    <string name="total_fg_time_sec_no_num">Running in the foreground</string>
     <string name="ultra_power_mode_desc">Phone and Messages only</string>
     <string name="usage_app_num">app(s) kept running</string>
     <string name="usage_detail">Usage details</string>
@@ -548,13 +557,7 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
     <string name="mc_pattern_yesterday">Yesterday</string>
-    <string name="histroy_detail">Turn on power consumption history details</string>
-    <string name="title_low_power_remind_enter_low_power_title">Your battery is less than 30%</string>
-    <string name="total_bg_power_sec">Background power usage</string>
-    <string name="total_bg_time_sec">Running in the background %1$s</string>
-    <string name="total_fg_power_sec">Foreground power usage</string>
-    <string name="total_fg_time_sec">Running in the foreground %1$s</string>
-    <string name="durationMinutes_whole_unit">%1$dm</string>
+    <string name="durationMinutes_whole_unit">%1$d m</string>
     <string name="jumpToSetup">Click to enter setup page</string>
     <string name="mc_selectionbutton_all">All</string>
     <string name="reject_recommend">Optional</string>
