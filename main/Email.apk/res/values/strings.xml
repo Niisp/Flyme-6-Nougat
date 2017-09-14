@@ -50,7 +50,8 @@
     <string name="account_settings_exit_server_settings">Discard unsaved changes?</string>
     <string name="account_settings_incoming_label">Incoming Settings</string>
     <string name="account_settings_incoming_summary">Username, password and other incoming server settings</string>
-    <string name="account_settings_login_dialog_content_fmt">Wrong username or password for %sUpdate now?</string>
+    <string name="account_settings_login_dialog_content_fmt">Wrong username or password for %s. 
+	Update now?</string>
     <string name="account_settings_login_dialog_title">Unable to log in</string>
     <string name="account_settings_mail_check_frequency_label">Check Frequency</string>
     <string name="account_settings_name_label">Your name</string>

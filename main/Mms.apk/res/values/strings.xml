@@ -49,10 +49,10 @@
     <string name="change_duration_activity" />
     <string name="class_0_message_activity" />
     <string name="confirm">Confirm</string>
-    <string name="confirm_delete_conversation">Delete <g id="NUMBER">%1$s</g> conversation(s)</string>
+    <string name="confirm_delete_conversation">Delete 1$s conversation(s)</string>
     <string name="confirm_delete_locked_message">Delete this locked message?</string>
     <string name="confirm_delete_message">This message will be deleted.</string>
-    <string name="confirm_dialog_title">Delete <g id="NUMBER">%1$s</g> message(s)</string>
+    <string name="confirm_dialog_title">Delete %1$s message(s)</string>
     <string name="confirm_rate_limit">Multiple MMS will be sent. Are you sure?</string>
     <string name="copy_to_sdcard">Save attachment</string>
     <string name="copy_to_sdcard_fail">Unable to save attachment.</string>
@@ -71,7 +71,7 @@
     <string name="download_later">Unable to download right now. Retry later.</string>
     <string name="draft_separator">,</string>
     <string name="duration_not_a_number">Duration must be a number.</string>
-    <string name="duration_sec">Duration (<g id="DURATION">%s</g> s)</string>
+    <string name="duration_sec">Duration (%s s)</string>
     <string name="duration_selector_title">Duration for slide</string>
     <string name="duration_zero">Duration must be greater than 0 second.</string>
     <string name="edit">Edit</string>
@@ -82,7 +82,7 @@
     <string name="error_state">States do not match</string>
     <string name="error_state_text">The states of threads and recipients do not match. Please capture screen for the error and report it to http://go/droidanizer</string>
     <string name="exceed_message_size_limitation">MMS attachments maximum only supports 298KB file</string>
-    <string name="expire_on">Expiration time: <g id="DATE">%s</g></string>
+    <string name="expire_on">Expiration time: %s</string>
     <string name="failed_to_resize_image">Picture not resized.</string>
     <string name="forward_prefix">Fwd:</string>
     <string name="from_label">From:</string>
@@ -100,7 +100,7 @@
     <string name="menu_preferences">Settings</string>
     <string name="menu_search">Search</string>
     <string name="message_class_label">Message category:</string>
-    <string name="message_count_format"> <g id="NUMBER">%1$s</g></string>
+    <string name="message_count_format">%1$s</string>
     <string name="message_details_title">Message details</string>
     <string name="message_download_failed_title">Message not downloaded</string>
     <string name="message_failed_body">Touch to view message and retry.</string>
@@ -108,7 +108,7 @@
     <string name="message_send_failed_title">Messages not sent</string>
     <string name="message_send_read_report">Read report will be sent</string>
     <string name="message_size_label">Size</string>
-    <string name="message_timestamp_format"><g id="STRING_0">%1$s</g> - <g id="STRING_1">%2$s</g></string>
+    <string name="message_timestamp_format">%1$s - %2$s</string>
     <string name="message_too_big_for_video">Message too large to attach a video</string>
     <string name="message_type_label">Type:</string>
     <string name="messagelist_sender_self">Me</string>
@@ -119,7 +119,7 @@
     <string name="new_message">New message</string>
     <string name="no">Cancel</string>
     <string name="no_conversations">No Messages</string>
-    <string name="notification_failed_multiple"><g id="COUNT">%s</g> SMS cannot be sent</string>
+    <string name="notification_failed_multiple">%s SMS cannot be sent</string>
     <string name="notification_failed_multiple_title">Messages not sent</string>
     <string name="notification_separator" />
     <string name="open_keyboard_to_compose_message">Open keyboard to type message</string>
@@ -160,13 +160,13 @@
     <string name="search">Messaging</string>
     <string name="search_empty" />
     <string name="search_hint">Search for message</string>
-    <string name="search_history"><g id="COUNT">%1$s</g> result(s) for <g id="SEARCH">%2$s</g></string>
+    <string name="search_history">%1$s result(s) for %2$s</string>
     <string name="search_label" />
     <string name="search_setting_description" />
     <string name="secs">sec(s)</string>
     <string name="select_audio">Choose audio</string>
     <string name="select_bottom_text">Text at the bottom</string>
-    <string name="select_different_media">Choose other <g id="NAME">%1$s</g></string>
+    <string name="select_different_media">Choose other %1$s</string>
     <string name="select_top_text">Text on the top</string>
     <string name="send">Send</string>
     <string name="sending_message">Sending</string>
@@ -179,8 +179,8 @@
     <string name="sim_empty">No messages on SIM card.</string>
     <string name="sim_full_body">Delete some messages to free up space.</string>
     <string name="sim_full_title">SIM card full</string>
-    <string name="slide_number">Slide <g id="NUMBER">%s</g></string>
-    <string name="slide_show_part"><g id="PART">%1$s</g> of <g id="TOTAL">%2$s</g></string>
+    <string name="slide_number">Slide %s</string>
+    <string name="slide_show_part">%1$s of %2$s</string>
     <string name="slideshow_activity">Slideshow</string>
     <string name="slideshow_options">Slide options</string>
     <string name="sms_full_body">Unable to receive SMS as the storage is full. Please free up space</string>
@@ -204,7 +204,7 @@
     <string name="subject_label">Subject:</string>
     <string name="text_message">SMS</string>
     <string name="to_address_label">Recipient:</string>
-    <string name="too_many_recipients">Too many recipients (<g id="CURRENTCOUNT">%1$s</g>). You can send messages to no more than <g id="MAXLIMIT">%2$s</g> recipients.</string>
+    <string name="too_many_recipients">Too many recipients (%1$s). You can send messages to no more than %2$s recipients.</string>
     <string name="try_to_send">Try to send</string>
     <string name="type_audio">Audio</string>
     <string name="type_picture">Image</string>
@@ -230,7 +230,7 @@
     <string name="add_spam_keyword">Add keyword</string>
     <string name="add_spam_number">Add Number</string>
     <string name="add_to_contact">Add to contact</string>
-    <string name="alipay_account_name">Alipay <g id="PAYMENT_TYPE">%s</g></string>
+    <string name="alipay_account_name">Alipay %s</string>
     <string name="alipay_check">Check Now</string>
     <string name="alipay_pay_for_other">Pay Now</string>
     <string name="alipay_repayment">Repay Now</string>
@@ -256,7 +256,7 @@
     <string name="available_balance">Balance</string>
     <string name="balance_inquiry">Balance</string>
     <string name="banner_sms_promo_message">You can change this in Settings</string>
-    <string name="banner_sms_promo_title_application"><g id="appName">%s</g> is your SMS app</string>
+    <string name="banner_sms_promo_title_application">%s is your SMS app</string>
     <string name="banner_sms_promo_title_initial">Messaging is not your SMS app</string>
     <string name="btn_new_message_large">New message</string>
     <string name="can_not_record_current">Unable to record now</string>
@@ -279,8 +279,8 @@
     <string name="change_default_message_app_dialog_title">Change your default SMS app?</string>
     <string name="change_mms_text">MMS</string>
     <string name="change_nickname_title">Edit nickname</string>
-    <string name="change_sim1_title">Card 1 - <g id="sim1_display_name">%s</g></string>
-    <string name="change_sim2_title">Card 2 - <g id="sim2_display_name">%s</g></string>
+    <string name="change_sim1_title">Card 1 - %s</string>
+    <string name="change_sim2_title">Card 2 - %s</string>
     <string name="change_sms_text">SMS</string>
     <string name="charge_flow">Buy data</string>
     <string name="check_for_delete_address">Delete selected number(s)?</string>
@@ -304,11 +304,11 @@
     <string name="cmenu_sms_copy">Copy</string>
     <string name="compose_disabled_toast">"Can't compose messages as this app is not the default SMS app."</string>
     <string name="compose_text_hint_timer">Scheduled SMS</string>
-    <string name="confirm_delete_messages">Delete <g id="NUMBER">%1$s</g> message(s)</string>
+    <string name="confirm_delete_messages">Delete %1$s message(s)</string>
     <string name="confirm_dialog_delete_conversation">Delete message?</string>
     <string name="confirm_dialog_delete_conversations">Delete selected item(s)?</string>
     <string name="confirm_dialog_resend_mms_msg">Re-send mass MMS?</string>
-    <string name="confirm_dialog_resend_sms_msg">Re-send to <g id="name">%s</g></string>
+    <string name="confirm_dialog_resend_sms_msg">Re-send to %s</string>
     <string name="confirm_dialog_search_spam_address">Confirm filtering?</string>
     <string name="confirm_dialog_search_spam_addresses">Filter selected number(s)?</string>
     <string name="confirm_dialog_search_unfiltrate_msg">Mark as read?</string>
@@ -348,7 +348,7 @@
     <string name="download_lakala_title">Download Lakala?</string>
     <string name="draft_header_text">You have unsent message.</string>
     <string name="draft_no_subject">No subject</string>
-    <string name="draft_sub_tittle_mms">MMS: <g id="SUBJECT">%1$s</g></string>
+    <string name="draft_sub_tittle_mms">MMS: %1$s</string>
     <string name="draft_tittle">Draft</string>
     <string name="draft_tittle_large">"[Draft] "</string>
     <string name="edit_spam_keyword">Edit keyword</string>
@@ -376,10 +376,10 @@
     <string name="flyme_message_reDownload_positive_title">Download it again</string>
     <string name="flyme_message_text_length_error">Upper limit of 500 characters exceeded</string>
     <string name="flyme_mms_no_space_dialog_positive">Clear now</string>
-    <string name="flyme_mms_no_space_msg">Available space: <g id="SD_SIZE">%s</g></string>
+    <string name="flyme_mms_no_space_msg">Available space: %s</string>
     <string name="flyme_mms_no_space_title">SD card ran out of space</string>
-    <string name="flyme_mms_recv_over_size_msg">Download completed <g id="DOWN_SIZE_STR">%s</g></string>
-    <string name="flyme_mms_recv_size_msg">Tap to receive <g id="RECV_SIZE_STR">%s</g></string>
+    <string name="flyme_mms_recv_over_size_msg">Download completed %s</string>
+    <string name="flyme_mms_recv_size_msg">Tap to receive %s</string>
     <string name="flyme_mms_send_action_title">Web message</string>
     <string name="flyme_no_regist">The recipient cannot receive Flyme MMS, please delete attachments</string>
     <string name="flyme_oldversion_mms">"The recipient's software version does not support Flyme MMS"</string>
@@ -396,7 +396,7 @@
     <string name="go_ahead">Continue</string>
     <string name="group_edit">Manage</string>
     <string name="group_message_content_title">Group details</string>
-    <string name="group_message_recipient_count_title"><g id="recipient_count">%d</g> in total</string>
+    <string name="group_message_recipient_count_title">%d in total</string>
     <string name="group_recipients_detail">View details</string>
     <string name="group_status_delivey_failed">Not delivered</string>
     <string name="group_status_failed">Failed to send</string>
@@ -417,14 +417,14 @@
     <string name="internet_traffic_query">Data</string>
     <string name="label_select_conversation">Message History</string>
     <string name="lable_sms_center_number">SMS center</string>
-    <string name="lakala_account_name">Lakala <g id="PAYMENT_TYPE">%s</g></string>
+    <string name="lakala_account_name">Lakala %s</string>
     <string name="last_month_bill">Bills</string>
     <string name="learn_flyme_message">Learn about web message</string>
     <string name="location_auto_locate">Obtaining your location</string>
     <string name="location_current">My Location</string>
     <string name="location_failed_detials_msg">Failed to obtain location information</string>
-    <string name="location_far_kilometer"><g id="first">%s</g> km</string>
-    <string name="location_far_meter"><g id="first">%s</g> m</string>
+    <string name="location_far_kilometer">%s kmeter</string>
+    <string name="location_far_meter">%s meter</string>
     <string name="location_getmap_timeout">Failed to obtain map screenshot, please retry</string>
     <string name="location_geturl_timeout">Fail to obtain location link, please retry</string>
     <string name="location_key_fail">Failed to load map, please retry later</string>
@@ -432,7 +432,7 @@
     <string name="location_no_detials_msg">No information about this place</string>
     <string name="location_search_fail">No match results</string>
     <string name="location_search_hint">Search for places</string>
-    <string name="location_search_pro">Searching <g id="first">%s</g></string>
+    <string name="location_search_pro">Searching %s</string>
     <string name="location_service_message">Sending location requires location service, please enable it</string>
     <string name="location_service_title">Location services not enabled</string>
     <string name="location_unknow_distance">Unknown</string>
@@ -554,9 +554,9 @@
     <string name="message_has_expire_title">Message expired</string>
     <string name="message_has_expired">Message expired and cannot be downloaded</string>
     <string name="message_notice_label">Notices</string>
-    <string name="message_notice_labell_has_unread">Notices <g id="COUNT">%s</g></string>
+    <string name="message_notice_labell_has_unread">Notices %s</string>
     <string name="message_person_label">Personal</string>
-    <string name="message_person_label_has_unread">Personal <g id="COUNT">%s</g></string>
+    <string name="message_person_label_has_unread">Personal %s</string>
     <string name="message_popup_veri_close">Close</string>
     <string name="message_popup_veri_copy">Copy</string>
     <string name="message_popup_veri_tip">Verification code</string>
@@ -573,9 +573,9 @@
     <string name="mms_failed_dialog_title_single">Failed to send MMS</string>
     <string name="mms_file_subject_view">Web MMS: 1 file</string>
     <string name="mms_flyme_noti_subject_view">MMS: Flyme notification</string>
-    <string name="mms_flymeorsns_subject_view"><g id="SUBJECT_STR">%s</g></string>
+    <string name="mms_flymeorsns_subject_view">%s</string>
     <string name="mms_full_body">Unable to receive MMS as the storage is full. Please clear SD card</string>
-    <string name="mms_has_subject_view">MMS: <g id="SUBJECT_STR">%s</g></string>
+    <string name="mms_has_subject_view">MMS: %s</string>
     <string name="mms_image_subject_view">Web MMS: 1 image</string>
     <string name="mms_loading">Loading</string>
     <string name="mms_location_subject_view">Web MMS: 1 location</string>
@@ -589,7 +589,7 @@
     <string name="mms_talk_noti_subject_view">MMS: voice notification</string>
     <string name="mms_vcard_subject_view">Web MMS: 1 namecard</string>
     <string name="mms_video_subject_view">Web MMS: 1 video</string>
-    <string name="mms_x_year">In <g id="DATE">%s</g></string>
+    <string name="mms_x_year">In %s</string>
     <string name="monthly_fee">Phone Bill</string>
     <string name="more_item_label">More</string>
     <string name="msg_body_sms_vcard">vCard info</string>
@@ -722,9 +722,9 @@
     <string name="not_default_message_app_dialog_message">The built-in Messages app will lose its permisson to send or delete messages.</string>
     <string name="not_default_message_app_dialog_title">System own app is not your default SMS app</string>
     <string name="notification_download_failed">Download Failed</string>
-    <string name="notify_count_msg">" "<g id="TOTAL">%d</g> new message(s)</string>
-    <string name="notify_hide_content_msg"><g id="TOTAL">%2$s</g> message(s) from <g id="PART">%1$s</g> contact(s)</string>
-    <string name="notify_hide_content_msg_unique">receive<g id="TOTAL">%s</g> message(s)</string>
+    <string name="notify_count_msg">%d new message(s)</string>
+    <string name="notify_hide_content_msg">%2$s message(s) from %1$s contact(s)</string>
+    <string name="notify_hide_content_msg_unique">receive %s message(s)</string>
     <string name="online">Online</string>
     <string name="open_flyme_sub_title">Once enabled, free Web messaging and calls can be used</string>
     <string name="open_flyme_title">Enable Flyme Communications</string>
@@ -748,8 +748,8 @@
     <string name="pref_summary_edit_quick_reply">Edit messages for quick responses</string>
     <string name="pref_summary_key_manage_message_storage">Manage photos and files related to web messages</string>
     <string name="pref_summary_manage_messages_spam">Filtered messages will be stored in trash</string>
-    <string name="pref_summary_manage_spam_address"><g id="count">%d</g> number(s)</string>
-    <string name="pref_summary_manage_spam_trash"><g id="count">%d</g> in total</string>
+    <string name="pref_summary_manage_spam_address">%d number(s)</string>
+    <string name="pref_summary_manage_spam_trash">%d in total</string>
     <string name="pref_summary_msg_popup_show">Except strangers</string>
     <string name="pref_summary_pay_from_sms">Smart identification payment scenario in SMS</string>
     <string name="pref_summary_tms_spam_enable">Filter spam message</string>
@@ -758,8 +758,8 @@
     <string name="pref_title_key_message_capacity">Message storage</string>
     <string name="pref_title_larger_text_size">Larger font</string>
     <string name="pref_title_manage_messages_spam">Blocklist</string>
-    <string name="pref_title_manage_multi_sim_messages">SIM messages (<g id="sim_display_name">%s</g>)</string>
-    <string name="pref_title_manage_multi_sim_messages_cdma">Manage messages stored on your card(<g id="sim_display_name">%s</g>)</string>
+    <string name="pref_title_manage_multi_sim_messages">SIM messages (%s)</string>
+    <string name="pref_title_manage_multi_sim_messages_cdma">Manage messages stored on your card(%s)</string>
     <string name="pref_title_manage_sim_messages_cdma">Manage messages stored on your card</string>
     <string name="pref_title_manage_spam_address">"User's blacklist"</string>
     <string name="pref_title_mms_allow_return_read_reports">Allow read report to be returned to MMS</string>
@@ -810,14 +810,14 @@
     <string name="recoder_time">Recording length:</string>
     <string name="recoder_time_limit_short">Recording too short</string>
     <string name="record_failed">Recording failed</string>
-    <string name="recv_info" formatted="false">" "<g id="send_or_recv">%s</g> ： <g id="message_receiver">%s</g></string>
+    <string name="recv_info" formatted="false">%s: %s</string>
     <string name="recv_time">Received</string>
     <string name="refuse_by_gfw">You entered some sensitive words, please send using carrier SMS</string>
     <string name="remaining_resource_query">Remaining data</string>
     <string name="remaining_sms_number_query">Remaining SMS</string>
     <string name="remote_not_exist">This feature is not supported by your phone.</string>
     <string name="reply_activity">Reply Message</string>
-    <string name="reply_message" formatted="false">Reply <g id="message">%s</g> to <g id="address">%s?</g></string>
+    <string name="reply_message" formatted="false">Reply %s to %s?</string>
     <string name="represent_content">Nickname</string>
     <string name="resend_btn">Resend</string>
     <string name="resend_title">Resend?</string>
@@ -834,7 +834,7 @@
     <string name="sd_mount_ok">SD card ready</string>
     <string name="sd_removed_message">The attachment to be sent is saved on the SD card, which was removed. Insert it or remove the attachment to send!</string>
     <string name="searching">Searching</string>
-    <string name="see_all_group_message_title">Another <g id="message">%s</g> message, See all</string>
+    <string name="see_all_group_message_title">Another %s message, See all</string>
     <string name="see_in_filemanager_title">See</string>
     <string name="select_all">Select all</string>
     <string name="select_conversation_matching">matching</string>
@@ -842,7 +842,7 @@
     <string name="select_recipt_contact_act_title">Recipient</string>
     <string name="select_time_date_tittle">Select date</string>
     <string name="send_btn">Send Message</string>
-    <string name="send_message_to_title">Send to <g id="name">%s</g></string>
+    <string name="send_message_to_title">Send to %s</string>
     <string name="send_new_message">Send Message</string>
     <string name="send_time">Sent</string>
     <string name="send_type_choose">Choose sending method</string>
@@ -852,23 +852,23 @@
     <string name="send_type_sim2">Send in card 2 message</string>
     <string name="sender">From</string>
     <string name="sending_disabled_not_default_app">Sending disabled</string>
-    <string name="sending_read_reports"><g id="count">%d</g>MMS sending read report</string>
+    <string name="sending_read_reports">>%dMMS sending read report</string>
     <string name="server_error">Server error</string>
     <string name="sim1">Card 1</string>
     <string name="sim2">Card 2</string>
     <string name="sim_close">Close</string>
-    <string name="sim_count">(<g id="number">%s</g>)</string>
+    <string name="sim_count">(%s)</string>
     <string name="sim_message_label">SIM MMS details</string>
     <string name="sim_open">Open</string>
-    <string name="sim_status" formatted="false">Card 1<g id="sim1_status">%s</g>, Card 2<g id="sim2_status">%s</g></string>
+    <string name="sim_status" formatted="false">Card 1 %s, Card 2 %s</string>
     <string name="sim_type_flyme">Web message</string>
     <string name="sim_type_normal">Normal message</string>
     <string name="size_unit">MB</string>
-    <string name="slide_failed_to_add_media">"You can't add this "<g id="NAME">%1$s</g> to your message</string>
+    <string name="slide_failed_to_add_media">"You can't add this "%1$s to your message</string>
     <string name="sms_mms_failed_cancel_title">Cancel</string>
     <string name="sms_mms_failed_dialog_message_single">Network failure</string>
     <string name="sms_mms_failed_dialog_title_single">Failed to send message</string>
-    <string name="sms_mms_failed_message_multi"><g id="FAILED_COUNT">%1$s</g> recipient(s)</string>
+    <string name="sms_mms_failed_message_multi">%1$s recipient(s)</string>
     <string name="sms_mms_failed_redeliver_title">Resend</string>
     <string name="sns_attachment_picture">Image</string>
     <string name="sns_attachment_video">Video</string>
@@ -889,9 +889,9 @@
     <string name="storage_warning_content">"You won't receive new SMS/MMS messages"</string>
     <string name="storage_warning_title">"Your phone's storage is full"</string>
     <string name="subject_reach_input_limit_cmcc">Character upper limit reached</string>
-    <string name="talk_avatar_detail">Details of <g id="SUBJECT">%1$s</g></string>
+    <string name="talk_avatar_detail">Details of %1$s</string>
     <string name="talk_subject">Web MMS: 1 audio</string>
-    <string name="time_info" formatted="false">" "<g id="send_or_recv_time">%s</g> ： <g id="receive_time">%s</g></string>
+    <string name="time_info" formatted="false">%s: %s</string>
     <string name="timer_string_formatter">Will be sent in %1$s</string>
     <string name="title_coversation_contact_multi">Recipient</string>
     <string name="title_coversation_contact_single">Contact details</string>
@@ -919,35 +919,27 @@
     <string name="unknown_url_has_sensitive">Sensitive information involved. Please use caution.</string>
     <string name="unknown_url_without_sensitive">Unknown URL. Please use caution.</string>
     <string name="unkown_file">Data error</string>
-    <string name="unread_msg_count_tip"><g id="PART">%s</g> new message(s)</string>
+    <string name="unread_msg_count_tip">%s new message(s)</string>
     <string name="unsupported_file_format">This file format is not available</string>
     <string name="url_warning_messgae">This may incur cellular data usage.</string>
     <string name="url_warning_title">Open URL link</string>
-    <string name="vcard_birthday">Birthday:<g id="birthday">%1$s</g>"
-"</string>
-    <string name="vcard_email">Email:<g id="email">%1$s</g>"
-"</string>
-    <string name="vcard_ims">Instant message:<g id="ims">%1$s</g>"
-"</string>
+    <string name="vcard_birthday">Birthday: %1$s</string>
+    <string name="vcard_email">Email: %1$s</string>
+    <string name="vcard_ims">Instant message: %1$s</string>
     <string name="vcard_name">Name</string>
-    <string name="vcard_nickname">Nickname:<g id="nickname">%1$s</g>"
-"</string>
-    <string name="vcard_note">Notes:<g id="note">%1$s</g>"
-"</string>
-    <string name="vcard_organization">Company:<g id="organization">%1$s</g>"
-"</string>
-    <string name="vcard_postal">Address:<g id="postal">%1$s</g>"
-"</string>
+    <string name="vcard_nickname">Nickname: %1$s</string>
+    <string name="vcard_note">Notes: %1$s</string>
+    <string name="vcard_organization">Company: %1$s</string>
+    <string name="vcard_postal">Address: %1$s</string>
     <string name="vcard_sip_address">Web call</string>
     <string name="vcard_tel">Phone number</string>
-    <string name="vcard_website">Website:<g id="website">%1$s</g>"
-"</string>
+    <string name="vcard_website">Website: %1$s</string>
     <string name="view_by_onepage_title">Direct view</string>
     <string name="view_by_slide_title">View as slide</string>
     <string name="voice_text_normal">Press and hold while speaking</string>
     <string name="voice_text_over">Release to end</string>
     <string name="voice_text_press">Slide up to cancel</string>
-    <string name="voice_text_remain">You can speak for <g id="time_remain">%s</g> more sec</string>
+    <string name="voice_text_remain">You can speak for %s more sec</string>
     <string name="waiting_for_make_slideshow">Preparing data</string>
     <string name="waiting_for_sending">Pending</string>
     <string name="desc_mms_send_outbox_msg" />
@@ -1018,7 +1010,7 @@
     <string name="breaking_scam_button_detail_alert">查看详情</string>
     <string name="breaking_scam_click_one">电话确认</string>
     <string name="breaking_scam_click_two">远程拉黑</string>
-    <string name="breaking_scam_detail"><g id="body">%1$s</g> 可以通过安全家庭帮助你预防电信诈骗和解决手机使用问题</string>
+    <string name="breaking_scam_detail">%1$s 可以通过安全家庭帮助你预防电信诈骗和解决手机使用问题</string>
     <string name="breaking_scam_feature_one">安全家庭</string>
     <string name="breaking_scam_feature_three">meizu.com</string>
     <string name="breaking_scam_feature_two">【魅族科技】</string>
@@ -1221,7 +1213,7 @@
     <string name="hybrid_no_network_to_setting">无网络连接，请检查网络设置</string>
     <string name="hybrid_ok">确定</string>
     <string name="hybrid_setting_network">设置网络</string>
-    <string name="kilobyte_with_size"><g id="size">%d</g>KB</string>
+    <string name="kilobyte_with_size">%d KB</string>
     <string name="lable_mms_center_number">SMS center</string>
     <string name="lakala_account_name_other">Lakala</string>
     <string name="mc_selectionbutton_all">All</string>
