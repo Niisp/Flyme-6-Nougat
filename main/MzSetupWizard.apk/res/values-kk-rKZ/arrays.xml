@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_array">
+        <item>Чех Республикасы</item>
+        <item>Германия</item>
+        <item>Ұлыбритания</item>
+        <item>Франция</item>
+        <item>Қытай</item>
+        <item>Гонконг (Дәстүрлі)</item>
+        <item>Гонконг (Жеңілдетілген)</item>
+        <item>Макао (Дәстүрлі)</item>
+        <item>Макао (Жеңілдетілген)</item>
+        <item>Тайвань</item>
+        <item>Ресей</item>
+        <item>Индонезия</item>
+        <item>Америка Құрама Штаттары</item>
+        <item>Грекия</item>
+        <item>Нидерланд</item>
+        <item>Канада</item>
+        <item>Италия</item>
+        <item>Венгрия</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Қаң</item>
+        <item>Ақп</item>
+        <item>Нау</item>
+        <item>Сәу</item>
+        <item>Мам</item>
+        <item>Мау</item>
+        <item>Шіл</item>
+        <item>Там</item>
+        <item>Қыр</item>
+        <item>Қаз</item>
+        <item>Қар</item>
+        <item>Жел</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Жек</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Қолдану уақыты</item>
+        <item>Санақты іске қосу</item>
+        <item>Қолданба аты</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Жоқ</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Ашу</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Нашар</item>
+        <item>Орташа</item>
+        <item>Жақсы</item>
+        <item>Күшті</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Экран өшкен кезде</item>
+        <item>Ешқашан</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item>Қосылмаған</item>
+        <item>Сканерленуде...</item>
+        <item>Қосылуда...</item>
+        <item>Қосылуда...</item>
+        <item>Қосылуда...</item>
+        <item>Қосылды</item>
+        <item>Уақытша тоқтатылған</item>
+        <item>Ағытылуда...</item>
+        <item>Ағытылды</item>
+        <item>Сәтсіз болды</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>Қосылмаған</item>
+        <item>Сканерленуде...</item>
+        <item>Қосылуда: %1$s...</item>
+        <item>%1$s желісіне аутентификация жасалуда...</item>
+        <item>%1$s желісінен IP мекенжайы алынуда...</item>
+        <item>Мынаған қосылып тұр: %1$s</item>
+        <item>Уақытша тоқтатылған</item>
+        <item>%1$s желісінен ағытылуда...</item>
+        <item>Ағытылды</item>
+        <item>Сәтсіз болды</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK он алтылық</item>
+    </string-array>
+</resources>

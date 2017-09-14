@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="location_array">
+        <item>Чеська Республіка</item>
+        <item>Німеччина</item>
+        <item>Сполучене Королівство</item>
+        <item>Франція</item>
+        <item>Китай</item>
+        <item>Гонконг (традиційна)</item>
+        <item>Гонконг (спрощена)</item>
+        <item>Макао (традиційна)</item>
+        <item>Макао (спрощене письмо)</item>
+        <item>Тайвань</item>
+        <item>Росія</item>
+        <item>Індонезія</item>
+        <item>Сполучені Штати</item>
+        <item>Греція</item>
+        <item>Нідерланди</item>
+        <item>Канада</item>
+        <item>Італія</item>
+        <item>Угорщина</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mc_custom_time_picker_lunar_month">
+        <item>Січ</item>
+        <item>Лют</item>
+        <item>Бер</item>
+        <item>Квi</item>
+        <item>Тра</item>
+        <item>Чер</item>
+        <item>Лип</item>
+        <item>Сер</item>
+        <item>Вер</item>
+        <item>Жов</item>
+        <item>Лис</item>
+        <item>Гру</item>
+    </string-array>
+    <string-array name="mc_custom_weekday">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Час використання</item>
+        <item>Кількість запускiв</item>
+        <item>Назва застосунку</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>SIM</item>
+        <item>АКА</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Немає</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPv2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>Відкрити</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Слабкий</item>
+        <item>Задовільно</item>
+        <item>Добре</item>
+        <item>Сильний</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Коли екран вимикається</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item>"Не зв'язаний"</item>
+        <item>Сканування...</item>
+        <item>Підключення...</item>
+        <item>Підключення...</item>
+        <item>Підключення...</item>
+        <item>Підключено</item>
+        <item>Призупинено</item>
+        <item>Відключення...</item>
+        <item>Відключено</item>
+        <item>Помилка</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item>"Не зв'язаний"</item>
+        <item>Сканування...</item>
+        <item>Підключення до %1$s...</item>
+        <item>Автентифікація в %1$s...</item>
+        <item>Отримання ІР-адреси з %1$s...</item>
+        <item>Підключено до %1$s</item>
+        <item>Призупинено</item>
+        <item>Відключення від %1$s...</item>
+        <item>Відключено</item>
+        <item>Помилка</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_type">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK шістнадцятковий</item>
+    </string-array>
+</resources>

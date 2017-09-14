@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="AirModeOn">"Can't set WLAN in Airplane mode. Please turn off Airplane mode first."</string>
+    <string name="Back">Back</string>
+    <string name="Complete">Complete</string>
+    <string name="NextStep">Next</string>
+    <string name="WaitTip">Please wait</string>
+    <string name="addNetWork">Add network</string>
+    <string name="agree">Agree</string>
+    <string name="aliAccount">Log in to Aliyun</string>
+    <string name="allowFlymeMessage">Use Flyme web calls and sms free of charge</string>
+    <string name="allowLocation">Allow \"Map\" and other apps to use GPS to locate</string>
+    <string name="alwaysUse">Use this option as default</string>
+    <string name="app_name">MzSetupWizard</string>
+    <string name="autoUpdateDec">Auto-update apps from App Store over WLAN</string>
+    <string name="autoUpdateTittle">Auto-update apps</string>
+    <string name="available_via_passpoint">Available via %1$s</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_country_or_region">Choose Country or Region</string>
+    <string name="choose_language">Select language</string>
+    <string name="choose_region">Choose Your Region</string>
+    <string name="cmcc">China Mobile</string>
+    <string name="connected_via_passpoint">Connected via %1$s</string>
+    <string name="connected_via_wfa">Connected via WLAN Assistant</string>
+    <string name="connetted">Connected</string>
+    <string name="connetting">Connetting…</string>
+    <string name="continue_text">Continue</string>
+    <string name="cutc">China Unicom</string>
+    <string name="date_time_set">Set</string>
+    <string name="desc_IP">"1. General
+
+Meizu has always attached great importance to IPR protection and abided by Chinese IPR laws, regulations and binding regulatory documents.
+
+All information on the Flyme OS, including but not limited to the entire content of all trademarks, identifiers, business name and logo, texts, images, audios, videos, and programs used on the Flyme OS. The Flyme OS layout, webpage design, Flyme OS architecture and data editing, software or program used and their intellectual property rights are all independently owned by Meizu or co-owned with legal right holders concerning the related content.
+
+Unless otherwise provided by law, without written authorization from Meizu, no one shall be allowed to reproduce, edit, distribute, compile, modify, download, imitate, copy, republish, mirror, reverse engineer, or decompile or disassemble any content of copyright and other intellectual property rights owned by Meizu in any form, or else will be investigated for legal responsibility by Meizu according to laws and regulations. 
+
+The republication of web content on the Flyme OS by any third party within the limits of fair use must indicate the source, author and URL, and Meizu copyright symbol (if any) may not be removed; otherwise Meizu reserves the right to pursue its legal responsibilities.
+
+Where texts or icons indicating a service from a third party, the final content of the service is determined and provided by the third party; Flyme OS only provides web services including automatic connection, automatic transmission, data storage space, search, linking or file-sharing technology. Meizu will not carry out any form of censorship, editing or modification on its content.
+
+2. Notice of infringement and counter notification
+
+According to the laws, regulations and requirements for normative documents of China, Meizu has developed measures and steps aimed at the protection of the legitimate interests of right holders, specifically as follows: 
+
+2.1 Notice of infringement
+
+If the right holders claim that the content or links provided by third parties on the Flyme OS can be possibly in violation of their legitimate rights and interests, they may file a notice of infringement with Meizu, which shall contain the following:
+
+a) Specific information of right holders, including the name, address, e-mail, phone number, copy of a valid identity document (such as identity card, passport and business license);
+
+b) The name of infringing content required to be removed and/or network address of links required to be unlinked;
+
+c) Initial evidence of infringement, including but not limited to the ownership documents that can prove the right holders' legal right of the alleged infringement and descriptions about the infringement facts.
+
+The notice of infringement must be signed by the right holder or an authorized person. In case the right holder is legal person or other entities, official seal is required.
+
+The right holder shall be responsible for the authenticity of his notice, and assume full legal responsibility arising therefrom.
+
+After receipt of such notice by Meizu, a formal examination shall be conducted within a reasonable period of time. Provided the notice meets the aforesaid requirements, Meizu will remove the alleged infringing content and/or disconnect the allegedly infringing link in accordance with provisions of laws and regulations. At the same time, Meizu reserves the right to require the right holder to provide further evidence for the purpose of review, for which the right holder shall cooperate.
+
+While deleting the content of complaint or disconnects the link pursuant to laws and regulations, Meizu will transfer the notice of infringement to the content or link provider; if as a result of unknown address the notice cannot be transferred, Meizu will publish the notice of infringement on the Internet.
+
+2.2 Counter notification
+
+The content or link provider can file a counter notification in writing to Meizu requesting recovery of deleted content or broken links within 3 working days after receipt of the notice of infringement transferred by Meizu or having learned it through the Internet, provided that he thinks the content or links he provides has not violated the rights of others.
+
+The counter notification shall include the following:
+
+a) Specific information of content or link provider, including the name, address, telephone number, a valid identity document (such as identity cards, passports and business licenses);
+
+b) The exact name and URL corresponding to the content or links required to be restored;
+
+c) Initial evidence of non-infringement, including but not limited to the ownership documents that can prove their legal rights to the allegedly infringing content or links, and descriptions of non-infringement facts.
+
+The counter notification shall be signed by the right holder or a legally authorized person, and an official seal needs to be affixed for an organization or institution.
+
+The service object shall be responsible for the authenticity of the counter notification, and assume full legal responsibility arising therefrom.
+
+After receiving the counter notification submitted by the content or link provider, a formal examination shall be conducted within a reasonable period of time, and if the counter notification meets the aforesaid requirements, Meizu will immediately restore the deleted content or broken links, while transferring the counter notification to the right holder. The right holder shall not request Meizu again to delete the content, or disconnect the links.
+
+2.3 Submission of notice of infringement and counter notification
+
+The notice of infringement and counter notification shall be filed to Meizu through the following approaches:
+
+a) To send a scanned copy to: ipr@meizu.com; 
+
+b) To mail written documents to: Intellectual Property Rights Department, Meizu Tech Bldg., Technology and Innovation Coast, Zhuhai (Postal Code: 519085).
+
+The deletion or restoration of content and disconnection or reconnection of links are conducted by Meizu in accordance with laws and regulationw, for which Meizu does not undertake any responsibility.
+
+Within the scope permitted by laws, the final interpretation of this Statement is owned by Meizu.
+
+©Meizu Telecom Equipment Co., Ltd.
+"</string>
+    <string name="desc_find_phone">When enabled, users can locate or lock the phone and take pictures if the phone is lost</string>
+    <string name="desc_privacy">"Meizu and its partners (hereinafter referred to as \"Meizu\", the \"Company\", \"We\") understand the importance of privacy for customers. We strive to clearly explain how we collect, use, disclose, transfer and store your information. The privacy policy outlines our information processing approach. 
+
+Meizu has always attached great importance to the protection of privacy for users (including natural persons, legal persons and other organizations through legitimate access to or use of this product, hereinafter referred to as \"Users\" or \"You\"). In order to better protect your rights of using the products and your personal information, we hereby disclose product or service usage, users' rights and obligations, as well as the collection, usage, storage, security protection, and way of disclosure of users' personal information and data. Before using the products or services, be sure to read and fully understand the requirements and limitations in this \"Privacy Statement\" (hereinafter referred to as the \"Statement\"), which is provided with independence and integrity. When you choose to use this product, you are deemed to have understood and agreed to all the terms in this Statement, and voluntarily assume full responsibility and risks in the use of the product or service. If you do not agree to this Statement, please terminate your use of our products or services. 
+
+What personal information do we collect? 
+
+Two types of information are collected from you: 
+
+Information you provide to us: 
+
+When you sign up for a Meizu account, you may be required to provide your personal information to us, such as your name, e-mail address, phone number and ID number. 
+
+Information we collect during your use of our products and services: 
+
+You may be required to provide your mailing address, bank account number, etc.
+
+If necessary, we will also collect product-related information, such as the IP address, Cookie, location information, product manufacturer, device model, product unique identifier, device data or other information. 
+
+Why do we collect your personal information? 
+
+There are two main reasons based on which we need to collect your personal information: 1) Part of our services can be provided only after your information is obtained; 2) Your information will help us optimize the products and services to better meet your needs and provide you with more convenient customization services. 
+
+How do we collect your personal information?
+
+1. Information you provide directly
+
+Some services require you to provide information directly to us. For example: 
+
+Many of our services allow users to create an account or profile. Among these services, we may ask you to provide certain personal information in order to set up the account or profile. For example, when you create a Meizu account, you may need to submit certain personal information, such as your name, phone number, email address and ID number. 
+
+If you order a product or paid service from us, we may ask for your name, contact information, shipping address, billing address, and credit card information for us to process your order. 
+
+2. Information about service usage 
+
+In addition to the information you provide, we may also collect information about your usage of our services through software on your device as well as other ways. For example, we may collect: 
+
+Device information, such as the hardware model, phone number, IMEI number and other unique device identifier, MAC address, IP address, operating system version, and settings of the device used to access the services. 
+
+Log information, such as the time and duration of your use of the services, the search words entered through the search services, and any information stored in cookies set on the device. 
+
+Location information, such as information about the IP address of the device that may be sent to us when you use certain services. 
+
+Voice messages, such as the voice we recorded (and may store on our server) when you use voice commands to control the services. (Please note that we work with a third-party service provider that delivers voice-to-text conversion service on our behalf. The provider may receive and store certain voice commands.) 
+
+For additional information about your use of the services, such as apps used, websites visited and how you interact with the service content. 
+
+3. Information from a third-party source 
+
+We may obtain your information from public sources (where permitted by law) and may combine it with information we receive or other information about you. If you choose to connect to third-party network services, we may also get your information from these services. 
+
+4. Other information we collect 
+
+We may also collect additional information about you, your device or use of services through other means, which will be described to you or your permission will be required for before or during the collection. 
+
+You can choose not to provide certain types of information (for example, information what we request when we improve the profile of your Meizu account), but this may affect your access to certain services. 
+
+How do we use collected personal information? 
+
+1. Register you or your device for services; 
+
+2. Provide services or features that you request; 
+
+3. Provide customized content and make recommendations for you according to your past use of our service activities; 
+
+4. Advertising, such as provide customized advertising and sponsorship content (through our advertising services, you can learn more about our practice here) and send you promotional information; 
+
+5. Assess and analyze markets, customers, products, and services, as well as ask your opinions about our products and services, and conduct customer surveys; 
+
+6. Learn how you use our services in order to improve our services and develop new products and services; 
+
+7. Provide maintenance services for your device; 
+
+8. To the extent applicable laws permit, hold a free prize draw, contest or promotion; 
+
+9. Other uses after gaining your consent. 
+
+How do we store and protect your personal information? 
+
+To ensure that your information will not be accessed, used or disclosed without authorization, Meizu uses generally accepted industrial security standards and take encryption measures to protect users' personal identity information and data. 
+
+On the technical side, Meizu uses antivirus software, encryption protection, and monitoring systems to enhance defense and protection for Meizu data center. In the aspect of system, through security and privacy protection training conducted to Meizu staff, employees' understanding of the importance of data protection is ensured. However, based on the inherent defects of and running risks on the Internet, Meizu does not guarantee that your information is absolutely secure.
+
+ 
+
+Third-party links and products 
+
+Where texts or icons indicate a service from a third party, the final content of the service is determined and provided by the third party, and we do not carry out any form of censorship on its content, and also we shall not be responsible for security or privacy of any information collected on these websites or by other services. You shall exercise caution and view the privacy statements applicable to the third-party websites and services used.
+
+Disclosure of information
+
+We will not disclose your personal information to third parties, except in the following circumstances: 
+
+1) With your consent
+
+Only with your consent shall we disclose your personal information to a third party.
+
+2) Disclose your personal information to our affiliates or partners 
+
+In order to provide better services, we may disclose part of your personal information to our affiliated companies or partners, but we will strictly prohibit our affiliates or partners from sharing the information for any other purpose. 
+
+3) In accordance with legal requirements 
+
+In accordance with the requirements of laws, regulations, judicial or government authorities, we may disclose your personal information. In the case we are dealing with restructuring, merger or liquidation, your personal information may be transferred to the counterparty. 
+
+Cookies and other technologies 
+
+In order to optimize the user experience, we will collect cookies data generated when users are using the products or services. Our cookies will not be used to identify your personality, but only for you to enjoy better and more convenient services. 
+
+Legal Liabilities 
+
+1. Users shall use the product based on reasonable and bona fide principles. If any damage or third party litigation is caused as a result of your misuse, we will retain the right to defense and to seek compensation, the extent of which includes but is not limited to losses arising due to your misconduct, including but not limited to court costs, attorney fees, transportation fees and travel expenses.
+
+ 2. The Statement is governed by the laws of the People's Republic of China. Any disputes arising from this Statement shall be settled through consultation. In case such consultation fails, the dispute may be submitted to the court in the area where Meizu is located for settlement. 
+
+Renewal of the Privacy Statement
+
+In keeping with the products, services and laws and regulations, this Privacy Statement will be modified or changed at any time, which will be published promptly once it happens. You can continue to view this Website or use Meizu products and services after such modifications or changes, which will be deemed as having accepted our modifications or changes to this Privacy Statement."</string>
+    <string name="desc_privacy_for_pad">"Meizu and its partners (hereinafter referred to as \"Meizu\", the \"Company\", \"We\") understand the importance of privacy for customers. We strive to clearly explain how we collect, use, disclose, transfer and store your information. The privacy policy outlines our information processing approach. 
+
+Meizu has always attached great importance to the protection of privacy for users (including natural persons, legal persons and other organizations through legitimate access to or use of this product, hereinafter referred to as \"Users\" or \"You\"). In order to better protect your rights of using the products and your personal information, we hereby disclose product or service usage, users' rights and obligations, as well as the collection, usage, storage, security protection, and way of disclosure of users' personal information and data. Before using the products or services, be sure to read and fully understand the requirements and limitations in this \"Privacy Statement\" (hereinafter referred to as the \"Statement\"), which is provided with independence and integrity. When you choose to use this product, you are deemed to have understood and agreed to all the terms in this Statement, and voluntarily assume full responsibility and risks in the use of the product or service. If you do not agree to this Statement, please terminate your use of our products or services. 
+
+What personal information do we collect? 
+
+Two types of information are collected from you: 
+
+Information you provide to us: 
+
+When you sign up for a Meizu account, you may be required to provide your personal information to us, such as your name, e-mail address, phone number and ID number. 
+
+Information we collect during your use of our products and services: 
+
+You may be required to provide your mailing address, bank account number, etc.
+
+If necessary, we will also collect product-related information, such as the IP address, Cookie, location information, product manufacturer, device model, product unique identifier, device data or other information. 
+
+Why do we collect your personal information? 
+
+There are two main reasons based on which we need to collect your personal information: 1) Part of our services can be provided only after your information is obtained; 2) Your information will help us optimize the products and services to better meet your needs and provide you with more convenient customization services. 
+
+How do we collect your personal information?
+
+1. Information you provide directly
+
+Some services require you to provide information directly to us. For example: 
+
+Many of our services allow users to create an account or profile. Among these services, we may ask you to provide certain personal information in order to set up the account or profile. For example, when you create a Meizu account, you may need to submit certain personal information, such as your name, phone number, email address and ID number. 
+
+If you order a product or paid service from us, we may ask for your name, contact information, shipping address, billing address, and credit card information for us to process your order. 
+
+2. Information about service usage 
+
+In addition to the information you provide, we may also collect information about your usage of our services through software on your device as well as other ways. For example, we may collect: 
+
+Device information, such as the hardware model, unique device identifier, MAC address, IP address, operating system version, and settings of the device used to access the services. 
+
+Log information, such as the time and duration of your use of the services, the search words entered through the search services, and any information stored in cookies set on the device. 
+
+Location information, such as information about the IP address of the device that may be sent to us when you use certain services. 
+
+Voice messages, such as the voice we recorded (and may store on our server) when you use voice commands to control the services. (Please note that we work with a third-party service provider that delivers voice-to-text conversion service on our behalf. The provider may receive and store certain voice commands.) 
+
+For additional information about your use of the services, such as apps used, websites visited and how you interact with the service content. 
+
+3. Information from a third-party source 
+
+We may obtain your information from public sources (where permitted by law) and may combine it with information we receive or other information about you. If you choose to connect to third-party network services, we may also get your information from these services. 
+
+4. Other information we collect 
+
+We may also collect additional information about you, your device or use of services through other means, which will be described to you or your permission will be required for before or during the collection. 
+
+You can choose not to provide certain types of information (for example, information what we request when we improve the profile of your Meizu account), but this may affect your access to certain services. 
+
+How do we use collected personal information? 
+
+1. Register you or your device for services; 
+
+2. Provide services or features that you request; 
+
+3. Provide customized content and make recommendations for you according to your past use of our service activities; 
+
+4. Advertising, such as provide customized advertising and sponsorship content (through our advertising services, you can learn more about our practice here) and send you promotional information; 
+
+5. Assess and analyze markets, customers, products, and services, as well as ask your opinions about our products and services, and conduct customer surveys; 
+
+6. Learn how you use our services in order to improve our services and develop new products and services; 
+
+7. Provide maintenance services for your device; 
+
+8. To the extent applicable laws permit, hold a free prize draw, contest or promotion; 
+
+9. Other uses after gaining your consent. 
+
+How do we store and protect your personal information? 
+
+To ensure that your information will not be accessed, used or disclosed without authorization, Meizu uses generally accepted industrial security standards and take encryption measures to protect users' personal identity information and data. 
+
+On the technical side, Meizu uses antivirus software, encryption protection, and monitoring systems to enhance defense and protection for Meizu data center. In the aspect of system, through security and privacy protection training conducted to Meizu staff, employees' understanding of the importance of data protection is ensured. However, based on the inherent defects of and running risks on the Internet, Meizu does not guarantee that your information is absolutely secure.
+
+ 
+
+Third-party links and products 
+
+Where texts or icons indicate a service from a third party, the final content of the service is determined and provided by the third party, and we do not carry out any form of censorship on its content, and also we shall not be responsible for security or privacy of any information collected on these websites or by other services. You shall exercise caution and view the privacy statements applicable to the third-party websites and services used.
+
+Disclosure of information
+
+We will not disclose your personal information to third parties, except in the following circumstances: 
+
+1) With your consent
+
+Only with your consent shall we disclose your personal information to a third party.
+
+2) Disclose your personal information to our affiliates or partners 
+
+In order to provide better services, we may disclose part of your personal information to our affiliated companies or partners, but we will strictly prohibit our affiliates or partners from sharing the information for any other purpose. 
+
+3) In accordance with legal requirements 
+
+In accordance with the requirements of laws, regulations, judicial or government authorities, we may disclose your personal information. In the case we are dealing with restructuring, merger or liquidation, your personal information may be transferred to the counterparty. 
+
+Cookies and other technologies 
+
+In order to optimize the user experience, we will collect cookies data generated when users are using the products or services. Our cookies will not be used to identify your personality, but only for you to enjoy better and more convenient services. 
+
+Legal Liabilities 
+
+1. Users shall use the product based on reasonable and bona fide principles. If any damage or third party litigation is caused as a result of your misuse, we will retain the right to defense and to seek compensation, the extent of which includes but is not limited to losses arising due to your misconduct, including but not limited to court costs, attorney fees, transportation fees and travel expenses.
+
+ 2. The Statement is governed by the laws of the People's Republic of China. Any disputes arising from this Statement shall be settled through consultation. In case such consultation fails, the dispute may be submitted to the court in the area where Meizu is located for settlement. 
+
+Renewal of the Privacy Statement
+
+In keeping with the products, services and laws and regulations, this Privacy Statement will be modified or changed at any time, which will be published promptly once it happens. You can continue to view this Website or use Meizu products and services after such modifications or changes, which will be deemed as having accepted our modifications or changes to this Privacy Statement."</string>
+    <string name="desc_update">Access the internet and check for updates</string>
+    <string name="desktopBackupInfo" formatted="false">(Backup from %s %s).</string>
+    <string name="disConnetted">disConnetted</string>
+    <string name="disConnetting">Turning off…</string>
+    <string name="disagree">Disagree</string>
+    <string name="fingerprint_continue">Start</string>
+    <string name="fingerprint_summary">Use fingerprint to unlock screen, make payment, and secure apps and files.</string>
+    <string name="fingerprint_title">Enroll Fingerprint</string>
+    <string name="flymeAccount">Log in to Flyme</string>
+    <string name="flymeMessage">Flyme Communications</string>
+    <string name="flymeUseAgreement">Flyme Terms of Use</string>
+    <string name="flymeUseWarningTittle">Flyme Terms of Use</string>
+    <string name="ignore">Skip</string>
+    <string name="invite_title">Meizu account provides security, backup and other services:</string>
+    <string name="joinImprovementProgram">Collect usage data to improve the product. No private data will be contained.</string>
+    <string name="joinProgram">Join User Experience Improvement Program</string>
+    <string name="loading">Loading</string>
+    <string name="locationService">Location services</string>
+    <string name="login">Log in</string>
+    <string name="login_flyme_account">Log in to Meizu Account</string>
+    <string name="mc_allow">OK</string>
+    <string name="mc_alway_allow">Always allow</string>
+    <string name="mc_cancel">Cancel</string>
+    <string name="mc_cancel_button_text">Cancel</string>
+    <string name="mc_cancel_collected_message">Canceled from Favorite</string>
+    <string name="mc_cancel_praised_message">Cancel like</string>
+    <string name="mc_change_num">Update</string>
+    <string name="mc_collected_message">Favorite status</string>
+    <string name="mc_custom_date_time_gregorian">Gregorian</string>
+    <string name="mc_custom_date_time_lunar">Lunar</string>
+    <string name="mc_date_time_day">d</string>
+    <string name="mc_date_time_hour">h</string>
+    <string name="mc_date_time_min">m</string>
+    <string name="mc_date_time_month">m</string>
+    <string name="mc_date_time_sec">s</string>
+    <string name="mc_date_time_set">Set</string>
+    <string name="mc_date_time_year">y</string>
+    <string name="mc_description_target_answer">Answer</string>
+    <string name="mc_description_target_decline">Reject</string>
+    <string name="mc_disable">Disable</string>
+    <string name="mc_downloading_patch_prefix">Download Update File</string>
+    <string name="mc_downloading_prefix">Downloaded</string>
+    <string name="mc_enhanceseekbar">Using slider control. Currently set to %1$s</string>
+    <string name="mc_every_day">Every day</string>
+    <string name="mc_friday">FR</string>
+    <string name="mc_go_Refreshing">Go refresh</string>
+    <string name="mc_hour">h</string>
+    <string name="mc_is_Refreshing">Refreshing</string>
+    <string name="mc_last_refresh">last refresh</string>
+    <string name="mc_last_refresh_hour">hour(s) ago</string>
+    <string name="mc_last_refresh_just_now">just now</string>
+    <string name="mc_last_refresh_minute">minute(s) ago</string>
+    <string name="mc_last_refresh_second">s ago</string>
+    <string name="mc_loading_animation_alert">Saving image</string>
+    <string name="mc_loading_view_text">Loading</string>
+    <string name="mc_minute">m</string>
+    <string name="mc_monday">MO</string>
+    <string name="mc_never">Once</string>
+    <string name="mc_permission_apply">Request for permission</string>
+    <string name="mc_permission_message_content">%1$s requests %3$d permission(s) including %2$s</string>
+    <string name="mc_pm_allow_check_app">OK</string>
+    <string name="mc_pm_allow_dialog_push">Allow push</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Call</string>
+    <string name="mc_pm_call_log">Read CallLog</string>
+    <string name="mc_pm_camera">Camera (Photo/Video)</string>
+    <string name="mc_pm_close">Close</string>
+    <string name="mc_pm_contacts">Read Contacts</string>
+    <string name="mc_pm_dialog_push">Pop-up push</string>
+    <string name="mc_pm_dlg_cancel">Cancel</string>
+    <string name="mc_pm_dlg_ok">OK</string>
+    <string name="mc_pm_location">Locate</string>
+    <string name="mc_pm_network">Cellular data</string>
+    <string name="mc_pm_nfc">NFC</string>
+    <string name="mc_pm_not_allow_check_app">Exit</string>
+    <string name="mc_pm_not_allow_dialog_push">Disable</string>
+    <string name="mc_pm_online_intenert">Internet</string>
+    <string name="mc_pm_open">Open</string>
+    <string name="mc_pm_r_mms">Read MMS</string>
+    <string name="mc_pm_r_sms">Read SMS</string>
+    <string name="mc_pm_recordaudio_local">Local/Calling Record</string>
+    <string name="mc_pm_recordaudio_phone">Calling Record</string>
+    <string name="mc_pm_s_mms">Send MMS</string>
+    <string name="mc_pm_s_sms">Send SMS</string>
+    <string name="mc_pm_set_bluetooth_on">Turn on Bluetooth</string>
+    <string name="mc_pm_set_gprs_on">Turn on mobile network</string>
+    <string name="mc_pm_set_wifi_on">Turn on WLAN</string>
+    <string name="mc_pm_wlan">WLAN</string>
+    <string name="mc_praised_message">Like</string>
+    <string name="mc_pull_refresh">Pull down to refresh</string>
+    <string name="mc_reject">Exit</string>
+    <string name="mc_saturday">SA</string>
+    <string name="mc_search">Search</string>
+    <string name="mc_search_button_text">Search</string>
+    <string name="mc_search_icon">Search</string>
+    <string name="mc_search_icon_input_clear">Clear</string>
+    <string name="mc_search_text">Search</string>
+    <string name="mc_second">s</string>
+    <string name="mc_sunday">SU</string>
+    <string name="mc_thursday">TH</string>
+    <string name="mc_time_picker_dialog_title">Schedule</string>
+    <string name="mc_time_picker_leap">Leap month</string>
+    <string name="mc_tuesday">TU</string>
+    <string name="mc_updating_prefix">Updating</string>
+    <string name="mc_value_checked">Selected</string>
+    <string name="mc_value_not_checked">Not selected</string>
+    <string name="mc_voice_icon">Voice Search</string>
+    <string name="mc_wednesday">WE</string>
+    <string name="mc_weekend">Weekend</string>
+    <string name="mc_working_day">Weekdays</string>
+    <string name="mc_yes">OK</string>
+    <string name="mobile_data_summary">Please insert SIM card to continue</string>
+    <string name="mobile_data_title">Cellular data</string>
+    <string name="more_item_label">More</string>
+    <string name="more_region">More Countries and Regions</string>
+    <string name="mz_action_bar_multi_choice_cancel">Cancel</string>
+    <string name="mz_action_bar_multi_choice_select_all">All</string>
+    <string name="mz_action_bar_multi_choice_select_all_cancel">None</string>
+    <string name="mz_action_bar_multi_choice_title">%d Item(s) Selected</string>
+    <string name="mz_allow">OK</string>
+    <string name="mz_alway_allow">Always allow</string>
+    <string name="mz_date_time_day">d</string>
+    <string name="mz_date_time_hour">h</string>
+    <string name="mz_date_time_min">m</string>
+    <string name="mz_date_time_month">m</string>
+    <string name="mz_date_time_sec">s</string>
+    <string name="mz_date_time_year">y</string>
+    <string name="mz_network_unavailable_hint">Network unavailable. Please check your network settings.</string>
+    <string name="mz_permission_apply">Permission request</string>
+    <string name="mz_permission_message_content">%1$s requests %3$d permission(s) to %2$s.</string>
+    <string name="mz_pm_allow_check_app">OK</string>
+    <string name="mz_pm_allow_dialog_push">allow push notifications</string>
+    <string name="mz_pm_bluetooth">control Bluetooth</string>
+    <string name="mz_pm_call">call phone</string>
+    <string name="mz_pm_call_log">read call logs</string>
+    <string name="mz_pm_camera">use camera (to take photo/video)</string>
+    <string name="mz_pm_close">Off</string>
+    <string name="mz_pm_contacts">read contacts</string>
+    <string name="mz_pm_dialog_push">push pop-ups</string>
+    <string name="mz_pm_dlg_cancel">Cancel</string>
+    <string name="mz_pm_dlg_ok">OK</string>
+    <string name="mz_pm_location">access location</string>
+    <string name="mz_pm_network">use mobile data</string>
+    <string name="mz_pm_nfc">control NFC</string>
+    <string name="mz_pm_not_allow_check_app">Exit</string>
+    <string name="mz_pm_not_allow_dialog_push">Disable</string>
+    <string name="mz_pm_online_intenert">access internet</string>
+    <string name="mz_pm_open">On</string>
+    <string name="mz_pm_r_mms">read MMS</string>
+    <string name="mz_pm_r_sms">read SMS</string>
+    <string name="mz_pm_recordaudio_local">record audio/call</string>
+    <string name="mz_pm_recordaudio_phone">record call</string>
+    <string name="mz_pm_s_mms">send MMS</string>
+    <string name="mz_pm_s_sms">send SMS</string>
+    <string name="mz_pm_set_bluetooth_on">turn on Bluetooth</string>
+    <string name="mz_pm_set_gprs_on">turn on mobile data</string>
+    <string name="mz_pm_set_wifi_on">turn on WLAN</string>
+    <string name="mz_pm_wlan">access WLAN</string>
+    <string name="mz_reject">Exit</string>
+    <string name="mz_wif_setting_dialog_message">No network connection. Please check your network settings.</string>
+    <string name="mz_wif_setting_dialog_set">Network Settings</string>
+    <string name="noActiveNetworkTip">No network connection, please check the settings</string>
+    <string name="no_availible_WLAN">No WLAN network available. You can log in using cellular data.</string>
+    <string name="no_avialible_network">No network available. You can finish the booting guide now and log in later in Settings to access all Flyme services when the phone is connected to a network.</string>
+    <string name="ok">OK</string>
+    <string name="open_wifi_confirm_message">You can turn on WLAN to log in to Meizu account.</string>
+    <string name="open_wifi_confirm_title">Turn on WLAN?</string>
+    <string name="please_select_phase2">Phase 2 authentication</string>
+    <string name="protocol_title">Terms of Use</string>
+    <string name="readAndAccept">I have read and agree to Flyme Terms of Use</string>
+    <string name="recommend_summary1">"Locate lost phone, take photos remotely
+Lock the device to protect your privacy"</string>
+    <string name="recommend_summary1_pad">"Log in with a tap
+Enable all services and features"</string>
+    <string name="recommend_summary2">"Gifts from latest trending games
+Infinite free themes and wallpapers"</string>
+    <string name="recommend_summary2_intl">Enjoy infinite free themes and wallpapers</string>
+    <string name="recommend_summary2_pad">"Gifts from latest trending games
+Priority in events and activities"</string>
+    <string name="recommend_summary3">"Store your data in the cloud
+Never lose a single contact or photo"</string>
+    <string name="recommend_summary3_pad">"Save subscriptions, notes and calendars
+Never lose your data ever again"</string>
+    <string name="recommend_title1">Log in for stronger security</string>
+    <string name="recommend_title1_pad">Full access with Meizu account</string>
+    <string name="recommend_title2">More benefits and privileges</string>
+    <string name="recommend_title3">Easier use with Meizu account</string>
+    <string name="refresh_network">Refresh</string>
+    <string name="register">Sign Up</string>
+    <string name="reset">Reset Setup Wizard</string>
+    <string name="restoreDesktop">Restore desktop</string>
+    <string name="restoreDesktopDec">Auto-sync apps and layouts of launcher over WLAN</string>
+    <string name="saved_network">Saved by %1$s</string>
+    <string name="setup">Enter Setup Wizard</string>
+    <string name="setupUseSyncAndPush">"You can use Meizu account to sync data and receive push notifications.
+Sync and push will consume your cellular data."</string>
+    <string name="setup_finish">Congrats! The setting is completed.</string>
+    <string name="setup_network">Network Settings</string>
+    <string name="simCardOne">SIM 1</string>
+    <string name="simCardTwo">SIM 2</string>
+    <string name="skip">Skip</string>
+    <string name="skip_network_dialog_msg">Uncompleted network setting will affect system update and the functioning of Phone Finder and other features.</string>
+    <string name="skip_network_dialog_msg_pad">System update and many other features may not work as intended if you skip network settings.</string>
+    <string name="skip_register_account_dlg_msg">Once logged in, you can activate Cloud Backup for photos, Phone Finder and other important features for free. Skip?</string>
+    <string name="skip_register_account_dlg_msg_pad">"Certain apps' account-related features may not work as intended if you skip Meizu account settings."</string>
+    <string name="start_use">Get Started</string>
+    <string name="syncData">Sync and backup</string>
+    <string name="title_IP">Intellectual Property Rights Statement</string>
+    <string name="title_find_phone">Phone Finder</string>
+    <string name="title_privacy">Privacy Statement</string>
+    <string name="title_update">Update service</string>
+    <string name="useFlymeToSync">"You can sync your personal data 
+using Meizu account"</string>
+    <string name="useNewUserGuide">"Use beginner's guide"</string>
+    <string name="useNewUserGuideTip">Help you learn about various features faster</string>
+    <string name="userWaringTip">"
+This service-related feature connects to the Internet (networked) where necessary, obtains your location (location) or reads your personal information, including but not limited to: 
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages, taking pictures to fulfill payment and improves the payment experience. 
+3. Data Sync will secure your data by synchronizing your contacts, messages and call logs to the cloud. 
+4. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+5. Voice Settings needs the permission to record audio to provide better voice-related services. 
+6. Number Identifier will read your contacts, call logs, and messages to identify phone numbers, tag unknown numbers or find a number's registered location. 
+7. System UI will read your contacts for multi-user switch. 
+8. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter, Themes, Number Identifier, System UI and Phone Services will enable location services when the device is connected to the internet. 
+9. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, O2O, mobile payment services, mPay, Phone Finder, Weather, News, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Themes, Game Center, Security, Pedometer, Package Installer, Smart Voice, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Flyme Communications, Battery Manager, Crash Reporter, NetAdmin and SoftSIM. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+
+Your location information might be recorded by the location services of Flyme and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location. 
+In order to serve you better, your device may regularly send information about you and itself to designated service operators via WLAN or cellular network. The service operators undertake that such information will be utilized only in an analytical manner for improving services or providing customized services or technologies, and will not be disclosed in any personally identifiable form."</string>
+    <string name="userWaringTipChinaMobile">"Thank you for choosing Flyme Smartphone Operating System (\"Flyme\"). To improve your experience with internet-based services, Flyme will connect to the internet, use your location or access your personal information when necessary. 
+
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages to fulfill payment. 
+3. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+4. Voice Settings needs the permission to record audio to provide better voice-related services. 
+5. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter and Number Identifier will enable location services when the device is connected to the internet. 
+6. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, O2O, mobile payment services, mPay, Phone Finder, Weather, Benefits Center, Meizu Account, Event Center, App Store, Security, Pedometer, Package Installer, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Flyme Communications and Battery Manager. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+Your location information might be recorded by Flyme location services and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location. 
+In order to serve you better, your device may regularly send information about you and itself to designated service operators via WLAN or cellular network. The service operators undertake that such information will be utilized only in an analytical manner for improving services or providing customized services or technologies, and will not be disclosed in any personally identifiable form."</string>
+    <string name="userWaringTipForArmy">"Thank you for choosing Flyme Smartphone Operating System (\"Flyme\"). To improve your experience with internet-based services, Flyme will connect to the internet, use your location or access your personal information when necessary. 
+
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages to fulfill payment. 
+3. Data Sync will secure your data by synchronizing your contacts, messages and call logs to the cloud. 
+4. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+5. Voice Settings needs the permission to record audio to provide better voice-related services. 
+6. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter and Number Identifier will enable location services when the device is connected to the internet. 
+7. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, O2O, mobile payment services, mPay, Phone Finder, Weather, News, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Themes, Game Center, Security, Pedometer, Package Installer, Smart Voice, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Flyme Communications and Battery Manager. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme services. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+
+Your location information might be recorded by Flyme location services and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location."</string>
+    <string name="userWaringTipForCTA">"
+This service-related feature connects to the Internet (networked) where necessary, obtains your location (location) or reads your personal information, including but not limited to: 
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages, taking pictures to fulfill payment and improves the payment experience. 
+3. Data Sync will secure your data by synchronizing your contacts, messages and call logs to the cloud. 
+4. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+5. Voice Settings needs the permission to record audio to provide better voice-related services. 
+6. Number Identifier will read your contacts, call logs, and messages to identify phone numbers, tag unknown numbers or find a number's registered location. 
+7. System UI will read your contacts for multi-user switch. 
+8. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter, Themes, Number Identifier, System UI and Phone Services will enable location services when the device is connected to the internet. 
+9. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, O2O, mobile payment services, mPay, Phone Finder, Weather, News, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Themes, Game Center, Security, Pedometer, Package Installer, Smart Voice, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Battery Manager, Crash Reporter, NetAdmin and SoftSIM. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+
+Your location information might be recorded by the location services of Flyme and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location."</string>
+    <string name="userWaringTipForPad">"Thank you for choosing Flyme JDtab incorporated with Flyme Tablet Operating System (\"Flyme\"). To improve your experience with internet-based services, Flyme will connect to the internet and use your location when necessary, including the following circumstances: 
+1. For greater accuracy in services, push services, Cloud Account, mPay, Event Center, Meizu Account, System UI Tools, and Tablet Manager will access your location when the device is connected to the internet. 
+2. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, mobile payment services, mPay, Weather, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Game Center, Tablet Manager, Package Installer, Videos, Music, media services, system framework services, and System UI tools 
+
+Your location information might be recorded by the location services of Flyme and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location."</string>
+    <string name="userWaringTipForSecondScreen">"Thank you for choosing Flyme Smartphone Operating System (\"Flyme\"). To improve your experience with internet-based services, Flyme will connect to the internet, use your location or access your personal information when necessary. 
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages to fulfill payment. 
+3. Data Sync will secure your data by synchronizing your contacts, messages and call logs to the cloud. 
+4. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+5. Voice Settings needs the permission to record audio to provide better voice-related services. 
+6. Number Identifier will read your contacts, call logs, and messages to identify phone numbers, tag unknown numbers or find a number's registered location. 
+7. System UI will read your contacts for multi-user switch. 
+8. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter, Themes, Number Identifier, System UI, Phone Services, Camera and XtemUI will enable location services when the device is connected to the internet. 
+9. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, O2O, mobile payment services, mPay, Phone Finder, Weather, News, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Themes, Game Center, Security, Pedometer, Package Installer, Smart Voice, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Battery Manager, Crash Reporter, NetAdmin, Camera, SoftSIM and XtemUI. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+
+Your location information might be recorded by the location services of Flyme and provided to other Flyme services or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location. 
+In order to serve you better, your device may regularly send information about you and itself to designated service operators via WLAN or cellular network. The service operators undertake that such information will be utilized only in an analytical manner for improving services or providing customized services or technologies, and will not be disclosed in any personally identifiable form."</string>
+    <string name="userWaringTipYunos">"Thank you for choosing Flyme Powered by YunOS Smartphone Operating System (\"Flyme Powered by YunOS\"). To improve your experience with internet-based services, Flyme Powered by YunOS will connect to the internet, use your location or access your personal information when necessary. 
+
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages to fulfill payment. 
+3. Data Sync will secure your data by synchronizing your contacts, messages and call logs to the cloud. 
+4. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+5. Voice Settings needs the permission to record audio to provide better voice-related services. 
+6. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter, Themes and Number Identifier will enable location services when the device is connected to the internet. 
+7. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, Data Sync, O2O, mobile payment services, mPay, Phone Finder, Weather, News, Cloud Album, Benefits Center, Meizu Account, Event Center, App Store, Themes, Game Center, Security, Pedometer, Package Installer, Smart Voice, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Flyme Communications and Battery Manager. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme Powered by YunOS. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+
+Your location information might be recorded by the location services of Flyme Powered by YunOS and provided to other services of the system or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location."</string>
+    <string name="userWaringTipYunosChinaMobile">"Thank you for choosing Flyme Powered by YunOS Smartphone Operating System (\"Flyme Powered by YunOS\"). To improve your experience with internet-based services, Flyme Powered by YunOS will connect to the internet, use your location or access your personal information when necessary. 
+
+1. Meizu Account will access your messages to get verification codes for quicker signup. 
+2. mPay needs to send and read messages to fulfill payment. 
+3. Yellow Pages and Security will identify and/or block incoming calls and messages by reading and analyzing your contacts, call logs, and messages. 
+4. Voice Settings needs the permission to record audio to provide better voice-related services. 
+5. For greater accuracy, push services, Cloud Account, mPay, Event Center, Meizu Account, Life, O2O, Yellow Pages, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter and Number Identifier will enable location services when the device is connected to the internet. 
+6. The following apps and services can only function properly when connected to the internet: push services, Cloud Account, O2O, mobile payment services, mPay, Phone Finder, Weather, Benefits Center, Meizu Account, Event Center, App Store, Security, Pedometer, Package Installer, Voice Settings, Videos, Messages, media services, system framework services, Search, System UI Tools, System Launcher, Easy Mode, Home Screen Backup, Network Location, Yellow Pages, Flyme Communications and Battery Manager. 
+
+It is your sole responsibility to pay for cellular data, calls, messages and all other charges by the carrier generated during your use of Flyme Powered by YunOS. If you purchase value-added services for which fees are charged by their providers, please consult the providers on relevant rates and charges. 
+Your location information might be recorded by the location services of Flyme Powered by YunOS and provided to other services of the system or third-party applications. Hence, to protect your private information, we kindly suggest you use caution when any third-party application requests the permission to access your location. 
+In order to serve you better, your device may regularly send information about you and itself to designated service operators via WLAN or cellular network. The service operators undertake that such information will be utilized only in an analytical manner for improving services or providing customized services or technologies, and will not be disclosed in any personally identifiable form."</string>
+    <string name="userWaringTittle">Usage Notice</string>
+    <string name="userWarningInfo">To ensure a better Flyme experience, network connection or positioning is required for some Flyme services. Please read carefully %s before using.</string>
+    <string name="waring_title">Terms and Statements</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcomeTip">Sync contacts, messages, launcher layout and other data to cloud</string>
+    <string name="wifi_cancel">Cancel</string>
+    <string name="wifi_certinstall">Install or view certificate</string>
+    <string name="wifi_connect">Connect</string>
+    <string name="wifi_connect_to_network">Please connect to network</string>
+    <string name="wifi_connected_no_internet">Connected but no internet access</string>
+    <string name="wifi_disabled">Disabled</string>
+    <string name="wifi_disabled_generic">Disabled</string>
+    <string name="wifi_disabled_network_failure">IP Configuration Failure</string>
+    <string name="wifi_disabled_password_failure">Authentication error</string>
+    <string name="wifi_disabled_wifi_failure">WLAN connection failed</string>
+    <string name="wifi_dns">DNS</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_eap_anonymous">Anonymous identity</string>
+    <string name="wifi_eap_ca_cert">CA certificate</string>
+    <string name="wifi_eap_identity">Identity</string>
+    <string name="wifi_eap_method">EAP method</string>
+    <string name="wifi_eap_user_cert">User certificate</string>
+    <string name="wifi_empty_list_wifi_off">Turn on WLAN to see available networks</string>
+    <string name="wifi_empty_list_wifi_on">No available WLAN nearby</string>
+    <string name="wifi_fail_to_scan">"Can't scan for networks"</string>
+    <string name="wifi_forget">Forget</string>
+    <string name="wifi_gateway">Gateway</string>
+    <string name="wifi_ip_address">IP address</string>
+    <string name="wifi_mac">MAC address</string>
+    <string name="wifi_mobile_network">Mobile network</string>
+    <string name="wifi_netmask">Netmask</string>
+    <string name="wifi_no_internet">"No network connection detected, won't automatically reconnect."</string>
+    <string name="wifi_no_sim_card">No SIM card is found</string>
+    <string name="wifi_noinstall_cert">Certificate not installed</string>
+    <string name="wifi_not_in_range">Not in range</string>
+    <string name="wifi_password">Password</string>
+    <string name="wifi_password_error">Password error</string>
+    <string name="wifi_remembered">Remembered</string>
+    <string name="wifi_save">Save</string>
+    <string name="wifi_secured">Secured with %1$s</string>
+    <string name="wifi_secured_with_status">%2$s, secured with %1$s</string>
+    <string name="wifi_security">Security</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_show_password">Password visible</string>
+    <string name="wifi_signal">Signal strength</string>
+    <string name="wifi_speed">Speed</string>
+    <string name="wifi_ssid">Network SSID</string>
+    <string name="wifi_starting">Turning on WLAN</string>
+    <string name="wifi_status">Status message</string>
+    <string name="wifi_stopping">Turning off WLAN</string>
+    <string name="wifi_unchanged">(unchanged)</string>
+    <string name="wifi_unspecified">(unspecified)</string>
+    <string name="wifi_use_mobile_network">Use mobile network</string>
+    <string name="wifi_use_wifi">WLAN</string>
+    <string name="wifi_wapi_psk_type">Password type</string>
+    <string name="wifi_wapicertmanager">Certificate installation</string>
+    <string name="xtemui_description">"Flip phone to wake secondary display, double click to turn off secondary display
+Slide up or down to launch camera for a quick selfie"</string>
+    <string name="xtemui_title">Secondary Display</string>
+    <string name="mc_pattern_a_hour_before">1 hour ago</string>
+    <string name="mc_pattern_a_minute_before">1 minute ago</string>
+    <string name="mc_pattern_hour_before">, hours ago</string>
+    <string name="mc_pattern_minute_before">, minutes ago</string>
+    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_today">Today</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %I:%M %p</string>
+    <string name="mc_pattern_yesterday">Yesterday</string>
+    <string name="collect_privacymessage">"
+Personal data we collect"</string>
+    <string name="content_collect_privacymessage">"Two types of data are collected from you: 
+1. Data you provide to us: the personal data which you might need to provide to us when registering for a Meizu account, such as your name, e-mail address, phone number and ID number. 
+
+2. Data we collect during your use of the Services: your mailing address, bank account number and other information you might need to provide. When necessary, we will also collect data related to our products and Services, such as IP address, cookies, location information, product manufacturer, device model, product unique identifier, language data, device data and other information."</string>
+    <string name="content_collect_privacymessage_intl">"Two types of data are collected from you: 
+1. Data you provide to us: the personal data which you might need to provide to us when registering for a Meizu account, such as your name, e-mail address, phone number and ID number. 
+
+2. Data we collect during your use of the Services: your mailing address, bank account number and other information you might need to provide. When necessary, we will also collect data related to our products and Services, such as IP address, cookies, location information, product manufacturer, device model, product unique identifier, device data and other information."</string>
+    <string name="content_cookies_otherskills">In order to optimize the user experience, we will collect cookie data generated when users use the Services. Our cookies will not be used to identify you personally, but only for you to enjoy better and more convenient services.</string>
+    <string name="content_damage_payment">"1. You have the obligation to prevent any complaint or proceeding against Meizu by any third party due to any of the following or other relevant acts, and agree to indemnify Meizu for losses, damages, liabilities, costs and expenses (including but not limited to attorney fees) arising therefrom: your use of the Services; your user content; your breach of these Terms. 
+2. Under no circumstances shall Meizu be held responsible to you or any third party for any indirect detriment or expectation loss caused by the Services. You shall solely bear all risks that are caused by using the Services and might damage the computer system or the database of the mobile communication device."</string>
+    <string name="content_disclaimer">"1. Meizu shall bear no legal responsibility in case any of the following occurs: 
+A requirement to provide your personal data according to laws and regulations or relevant governmental authorities; divulgence of any personal information caused by your misuse or other personal reasons; service interruption or disruption or other failures to meet the User’s needs as a result of hacker attack, computer virus intrusion, blocking of illegal contents and harassing information, governmental control, or any other reason in connection with networks, technologies, communication lines, information security administration measures and others; losses and damages incurred by communication line faults, technical issues, network or computer problems, system instability of a third party (such as a mobile carrier), or Force Majeure factors; risks caused by using anonymous or pseudonymous information from others containing threatening, slandering, objectionable or illegal content that might exists in the Services; any mental or physical harm or economic loss that is caused or might be caused by misleading or deceptive conducts when the User associates with other users through the Services. 
+
+2. Any content published by the User in the Services does not represent or reflect any opinion or policy of Meizu; Meizu assume no responsibility for such contents. 
+
+3. Under no circumstances shall Meizu be liable for any indirect detriment or expectation loss caused by using or inability to use the Services. Even though possibly otherwise specified in these Terms, in no event shall our total liability to you in relation to the Services exceed the fees (if any) you paid to Meizu for using the Services from the date your Account was registered successfully until the date the Account was terminated or withdrawn."</string>
+    <string name="content_how_collect_privacymessage">"1. Data you provide directly 
+Some services may require you to provide data directly to us, such as those allowing users to create an account or profile. In such services, we may ask you to provide certain personal data in order to set up the account or profile for you. For example, when you create a Meizu account, you may need to submit certain personal data, such as your name, phone number, email address and ID number; when you order a product or a paid service from us, we may ask for your name, contact information, shipping address, billing address, and credit card information so as to process your order. 
+
+2. Data about service usage 
+In addition to the data you provide, we may also collect data about your use of the Services through the software on your device and by other means. For example, we may collect: 
+Device information, such as the hardware model, phone number, IMEI number and other unique device identifiers, MAC address, IP address, operating system version, and settings of the device used to access the Services. 
+Log data, such as the time and duration of your use of the Services, the search words entered through the Services, and any data stored in the cookies set up on the device. 
+Location data, such as the information about the device’s IP address, and other data that may be sent to us when you use certain services. 
+Voice data, such as the voice we record (and may store on our server) when you use voice commands to control the Services. (Please note that we work with a third-party service provider that delivers speech-to-text conversion service on our behalf. The provider may receive and store certain voice commands.) 
+Other information about your use of the Services, such as apps you use, websites you visit, and how you interact with contents provided by the Services. 
+
+3. Data from third parties 
+We may obtain your data from public sources (where permitted by law) and may combine such data with other information received by us or related to you. If you choose to connect to third-party network services, we may also get your data from such services. 
+
+4. Other data we collect 
+We may also collect additional data about you, your device or your use of the Services by other means, which we will make clear to you or request your permission for when collecting such data. You can choose not to provide certain types of data (for example, the information we request to complete the profile of your Meizu account), but this may affect your access to certain services."</string>
+    <string name="content_how_collect_privacymessage_intl">"1. Data you provide directly 
+Some services may require you to provide data directly to us, such as those allowing users to create an account or profile. In such services, we may ask you to provide certain personal data in order to set up the account or profile for you. For example, when you create a Meizu account, you may need to submit certain personal data, such as your name, phone number, email address and ID number; when you order a product or a paid service from us, we may ask for your name, contact information, shipping address, billing address, and credit card information so as to process your order. 
+
+2. Data about service usage 
+In addition to the data you provide, we may also collect data about your use of the Services through the software on your device and by other means. For example, we may collect: 
+Device information, such as the hardware model, phone number, IMEI number and other unique device identifiers, MAC address, IP address, operating system version, and settings of the device used to access the Services. 
+Log data, such as the time and duration of your use of the Services, the search words entered through the Services, and any data stored in the cookies set up on the device. 
+Location information, such as the information about the device’s IP address, and other data that may be sent to us when you use certain services. 
+Other information about your use of the Services, such as apps you use, websites you visit, and how you interact with contents provided by the Services. 
+
+3. Data from third parties 
+We may obtain your data from public sources (where permitted by law) and may combine such data with other information received by us or related to you. If you choose to connect to third-party network services, we may also get your data from such services. 
+
+4. Other data we collect 
+We may also collect additional data about you, your device or your use of the Services by other means, which we will make clear to you or request your permission for when collecting such data. You can choose not to provide certain types of data (for example, the information we request to complete the profile of your Meizu account), but this may affect your access to certain services."</string>
+    <string name="content_how_user_collect_privacymessage">"1. Register you or your device for services. 
+2. Provide services or features you request. 
+3. Provide customized content and make recommendations for you according to your past activities during your use of the Services. 
+4. Provide advertising services, such as provide customized advertisements and sponsored content (including through our advertising services) and send promotional information to you. 
+5. Assess and analyze markets, customers, products, and services (such as ask your opinions about our products and services, and conduct customer surveys). 
+6. Learn how you use our services in order to improve our services and develop new products and services. 
+7. Provide maintenance services for your device. 
+8. To the extent applicable laws permit, hold free prize draws, contests or promotions. 
+9. Use it for other purposes with your consent."</string>
+    <string name="content_information_disclosure">"We will not disclose your personal data to third parties, except in the following circumstances: 
+1. Disclosure with your consent. Only with your consent will we disclose your personal data to a third party. 
+2. Disclosure of your personal data to our affiliates or partners. In order to provide better services, we may disclose part of your personal data to our affiliated companies or partners, but we will strictly prohibit our affiliates or partners from using such shared data for any other purpose. 
+3. Disclosure in compliance with legal requirements. We may disclose your personal data according to the requirements of laws, regulations, or judicial or governmental authorities. In the event that we are dealing with restructuring, merger or liquidation, your personal data may be transferred to the counterparty."</string>
+    <string name="content_intellectual_property_protection">"1. General 
+Meizu highly values IPR protection and complies with the IPR laws, regulations and binding regulatory documents of related countries or regions. All information on the Flyme OS, including but not limited to the entire content of all trademarks, identifiers, business name and logo, texts, images, audio, video, and programs used on the Flyme OS. The Flyme OS layout, webpage design, Flyme OS architecture and data editing, software or program used and their intellectual property rights are all independently owned by Meizu, co-owned with legal right holders concerning the related content, or authorized by such right holders. Unless otherwise provided by law, without written authorization from Meizu, no one shall be allowed to reproduce, edit, distribute, compile, modify, download, imitate, copy, republish, mirror, reverse engineer, decompile or disassemble any content of copyright or other intellectual property rights owned by Meizu in any form, or else will be held accountable by Meizu according to laws and regulations. Republication of any content related to the Services by any third party within the limits of fair use must indicate the source, author and URL of such content, and the Meizu copyright symbol (if any) may not be removed; otherwise Meizu reserves the right to hold such third parties responsible. Where texts or icons indicate a service is from a third party in the Services, such service and its content is provided by the third party, and the third party undertakes relevant legal responsibility. We only provides web services including automatic connection, automatic transmission, data storage space, search, linking or file-sharing technology. Meizu will not carry out any form of censorship, editing or modification on such content. 
+
+2. Notice of infringement and counter notice 
+According to the laws and regulations of China, Meizu has developed measures and steps aimed at the protection of the legitimate rights and interests of right holders, specifically as follows: 
+2.1 Notice of infringement: if a right holder claims that the service, content or link provided by a third party in the Flyme OS is possibly in violation of his, her or its legitimate rights and interests, such right holder may file a notice of infringement with Meizu, which shall contain the following: a) specific information of the right holder, including the name, mailing address, e-mail address, phone number, and copy of a valid identity document (such as identity card, passport and business license); b) the name of the infringing service or content (hereinafter referred to as “Allegedly Infringing Content”) required to be terminated and/or removed, and the URL of the link required to be disconnected; c) initial evidence of infringement, including but not limited to the ownership documents that can prove the right holder’s legal right to the Allegedly Infringing Content, and a description of the alleged infringement fact. The notice of infringement shall be signed by the right holder or an authorized person, and in case the right holder is a legal person or an entity, shall also be affixed with the official seal. The right holder shall be responsible for the authenticity of his, her or its notice of infringement, and assume full legal responsibility arising therefrom. After receipt of such notice by Meizu, a formal examination shall be conducted within a reasonable period of time. Provided the notice meets the aforesaid requirements, Meizu will remove the Allegedly Infringing Content and/or disconnect the allegedly infringing link in accordance with provisions of laws and regulations. At the same time, Meizu reserves the right to require the right holder to provide further evidence for the purpose of the examination, for which the right holder shall cooperate. While removing the allegedly infringing content and/or disconnecting the allegedly infringing link pursuant to laws and regulations, Meizu will transfer the notice of infringement to the content or link provider; if as a result of unknown address the notice cannot be transferred, Meizu will publish the notice of infringement on the internet. 
+
+2.2 Counter notice: the content or link provider can file a counter notice in writing to Meizu requesting recovery of removed content or broken link within 3 working days after receipt of the notice of infringement transferred by Meizu or having learned it through the internet, provided that he, she or it thinks the Allegedly Infringing Content has not violated the rights of others. The counter notice shall include the following: a) specific information about the content or link provider, including the name, mailing address, phone number and valid identity document (such as resident identity card, passport and business license); b) the exact name and URL of the content or link required to be recovered; c) initial evidence of non-infringement, including but not limited to ownership documents that can prove the content or link provider’s legal rights to the removed content or broken link, and a description of the non-infringement fact. The counter notice shall be signed by the right holder of the content or link or a legally authorized person, and an official seal needs to be affixed if the right holder is an organization or institution. The content or link provider shall be responsible for the authenticity of the counter notice, and assume full legal responsibility arising therefrom. After receiving the counter notice submitted by the content or link provider, Meizu shall conduct a formal examination within a reasonable period of time; if the counter notice meets the aforesaid requirements, Meizu will immediately recover the removed content or broken link, while transferring the counter notice to the right holder who filed the notice of infringement. In case of any objection to the content of the counter notice, the right holder shall notify Meizu and address the reasons and evidence supporting the objection, but cannot request Meizu to remove the content or disconnect the link again for the same reasons or evidence in the original notice of infringement. 
+
+2.3 Submission of notice of infringement and counter notice: Notices of infringement and counter notices shall be filed to Meizu through the following approaches: a) send scanned copies to ipr@meizu.com; b) mail written documents to Intellectual Property Rights Department, Meizu Tech Bldg., Technology and Innovation Coast, Zhuhai (postal code: 519085). Removal or recovery of content and disconnection or reconnection of links are conducted by Meizu in accordance with laws and regulations, for which Meizu does not undertake any responsibility."</string>
+    <string name="content_intellectual_property_protection_intl">"1. General 
+Meizu highly values IPR protection and complies with the IPR laws, regulations and binding regulatory documents of related countries or regions. All information on the Flyme OS, including but not limited to the entire content of all trademarks, identifiers, business name and logo, texts, images, audio, video, and programs used on the Flyme OS. The Flyme OS layout, webpage design, Flyme OS architecture and data editing, software or program used and their intellectual property rights are all independently owned by Meizu, co-owned with legal right holders concerning the related content, or authorized by such right holders. Unless otherwise provided by law, without written authorization from Meizu, no one shall be allowed to reproduce, edit, distribute, compile, modify, download, imitate, copy, republish, mirror, reverse engineer, decompile or disassemble any content of copyright or other intellectual property rights owned by Meizu in any form, or else will be held accountable by Meizu according to laws and regulations. Republication of any content related to the Services by any third party within the limits of fair use must indicate the source, author and URL of such content, and the Meizu copyright symbol (if any) may not be removed; otherwise Meizu reserves the right to hold such third parties responsible. Where texts or icons indicate a service is from a third party in the Services, such service and its content is provided by the third party, and the third party undertakes relevant legal responsibility. We only provide web services including automatic connection, automatic transmission, data storage space, search, linking or file-sharing technology. Meizu will not carry out any form of censorship, editing or modification on such content. 
+
+2. Notice of infringement and counter notice 
+According to the laws and regulations of China, Meizu has developed measures and steps aimed at the protection of the legitimate rights and interests of right holders, specifically as follows: 
+2.1 Notice of infringement 
+If a right holder claims that the service, content or link provided by a third party in the Flyme OS is possibly in violation of his, her or its legitimate rights and interests, such right holder may file a notice of infringement with Meizu, which shall contain the following: a) specific information of the right holder, including the name, mailing address, e-mail address, phone number, and copy of a valid identity document (such as identity card, passport and business license); b) the name of the infringing service or content (hereinafter referred to as “Allegedly Infringing Content”) required to be terminated and/or removed, and the URL of the link required to be disconnected; c) initial evidence of infringement, including but not limited to the ownership documents that can prove the right holder’s legal right to the Allegedly Infringing Content, and a description of the alleged infringement fact. The notice of infringement shall be signed by the right holder or an authorized person, and in case the right holder is a legal person or an entity, shall also be affixed with the official seal. The right holder shall be responsible for the authenticity of his, her or its notice of infringement, and assume full legal responsibility arising therefrom. After receipt of such notice by Meizu, a formal examination shall be conducted within a reasonable period of time. Provided the notice meets the aforesaid requirements, Meizu will remove the Allegedly Infringing Content and/or disconnect the allegedly infringing link in accordance with provisions of laws and regulations. At the same time, Meizu reserves the right to require the right holder to provide further evidence for the purpose of the examination, for which the right holder shall cooperate. While removing the allegedly infringing content and/or disconnecting the allegedly infringing link pursuant to laws and regulations, Meizu will transfer the notice of infringement to the content or link provider; if as a result of unknown address the notice cannot be transferred, Meizu will publish the notice of infringement on the internet. 
+
+2.2 Counter notice 
+The content or link provider can file a counter notice in writing to Meizu requesting recovery of removed content or broken link within 3 working days after receipt of the notice of infringement transferred by Meizu or having learned it through the internet, provided that he, she or it thinks the Allegedly Infringing Content has not violated the rights of others. The counter notice shall include the following: a) specific information about the content or link provider, including the name, mailing address, phone number and valid identity document (such as identity card, passport and business license); b) the exact name and URL of the content or link required to be recovered; c) initial evidence of non-infringement, including but not limited to ownership documents that can prove the content or link provider’s legal rights to the removed content or broken link, and a description of the non-infringement fact. The counter notice shall be signed by the right holder of the content or link or a legally authorized person, and an official seal needs to be affixed if the right holder is an organization or institution. The content or link provider shall be responsible for the authenticity of the counter notice, and assume full legal responsibility arising therefrom. After receiving the counter notice submitted by the content or link provider, Meizu shall conduct a formal examination within a reasonable period of time; if the counter notice meets the aforesaid requirements, Meizu will immediately recover the removed content or broken link, while transferring the counter notice to the right holder who filed the notice of infringement. In case of any objection to the content of the counter notice, the right holder shall notify Meizu and address the reasons and evidence supporting the objection, but cannot request Meizu to remove the content or disconnect the link again for the same reasons or evidence in the original notice of infringement. 
+
+2.3 Submission of notice of infringement and counter notice 
+Notices of infringement and counter notices shall be filed to Meizu through the following approaches: a) send scanned copies to ipr@meizu.com; b) mail written documents to Intellectual Property Rights Department, Meizu Tech Bldg., Technology and Innovation Coast, Zhuhai (postal code: 519085) Guangdong Province，China. Removal or recovery of content and disconnection or reconnection of links are conducted by Meizu in accordance with laws and regulations, for which Meizu does not undertake any responsibility."</string>
+    <string name="content_legal_responsibility">"Users shall use the Service in a reasonable and goodwill manner, and if you are harmed or subjected to a third party action as a result of your use, we will retain the right of defense and the right to seek compensation, including but not limited to your misconduct Loss, including but not limited to litigation costs, attorneys' fees, transportation costs, travel expenses."</string>
+    <string name="content_modification_termination">"1. Modification 
+Meizu reserves the right to modify these Terms from time to time according to the actual situation. Modified terms come into force after being published in the methods specified in these Terms. 
+
+2. Termination 
+These Terms shall take effect from the date of your acceptance, and shall continue in full force during your use of the Services until terminated according to these Terms. Notwithstanding the foregoing, provided that you start using the Services at a time earlier than you accept these Terms, you hereby understand, or shall understand and agree that these Terms come into effect upon your first use of the Services, unless terminated earlier under these Terms. 
+
+3. We may limit or terminate your right to use the Services or your Account according to the provisions of laws, regulations and these Terms. Should we believe that you have breached these Terms and/or our other provisions, we have the right to terminate these Terms without prior notice. 
+
+4. In the event that the User infringes another person’s intellectual property rights and Meizu receives a valid notice from the right holder or a legitimate agent of the right holder, Meizu is entitled to terminate these Terms, and/or limit or discontinue your right to use the Services and/or your Account. 
+
+5. Once these Terms are terminated, your Account and right to use the Services shall be discontinued immediately. You shall understand that the discontinuation of your Account means your user content will be deleted from our active database. Meizu does not assume any responsibility to you for terminating these Terms, including discontinuing your Account and deleting your user content. 
+
+6. Updates, future versions, renewals or other changes of Flyme and/or the Services shall be bound by these Terms."</string>
+    <string name="content_new_title_privacy">"We understand that privacy is important to our users, and strive to clearly explain how we collect, use, disclose, transmit and store your data. This Privacy Statement outlines our data handling approaches. Meizu has always attached great importance to users’ privacy protection. In order to better protect your right to use the Services and your personal data, we hereby make public the methods in which we collect, use, storage, secure and disclose users' personal data and information in connection with the Services. Before using the Services, please be sure to read and fully understand the requirements and limitations in this Privacy Statement (hereinafter referred to as this Statement), which is provided with independence and integrity. When you choose to use the Services, you are deemed to have understood and fully agree to all the terms in this Statement, and voluntarily assume full responsibility and all risks in relation to your use of the Services and your privacy. If you do not agree to this Statement, please cease using the Services."</string>
+    <string name="content_other_intl">"1. Feedback 
+By submitting suggestion (or “feedback”) to Meizu, you transfer to Meizu all the rights concerning such feedback and agree that Meizu has the right to use the feedback and its related information in any reasonable manner. We will consider such feedback information as non-confidential and non-proprietary. You have agreed that you will not provide to Meizu any information you consider confidential and proprietary. We will reserve our right (not obligation) to examine user content at our discretion. With or without notice, we have the right to delete or move your user content for any reason and at any time. According the provisions above, you have the right to retain or discontinue your Account. 
+
+2. Applicable laws 
+This Agreement (including the Privacy Statement) is governed by the laws of the People's Republic of China without regard to its conflicts of laws principles. Any disputes arising therefrom shall be settled through friendly consultations. In case such consultations fail, the dispute shall be submitted to the court in the area where Meizu is located for settlement, with this, the parties hereby waive their own jurisdiction that may correspond to them by law. 
+© Meizu Technology"</string>
+    <string name="content_privacy_intl">"We understand that privacy is important to our users, and will collect, use, disclose, transmit and store your data according to this Privacy Statement and to the extent permitted by the laws and regulations of China and relevant countries or regions. We strive to clearly explain how we collect, use, disclose, transmit and store your data. This Privacy Statement outlines our data handling approaches. Meizu has always attached great importance to users’ privacy protection. In order to better protect your right to use the Services and your personal data, we hereby make public the methods in which we collect, use, storage, secure and disclose users' personal data and information in connection with the Services. Before using the Services, please be sure to read and fully understand the requirements and limitations in this Privacy Statement (hereinafter referred to as this Statement), which is provided with independence and integrity. When you choose to use the Services, you are deemed to have understood and fully agree to all the terms in this Statement, and voluntarily assume full responsibility and all risks in relation to your use of the Services and your privacy. If you do not agree to this Statement, please cease using the Services."</string>
+    <string name="content_reasone_collect_privacymessage">"There are two main reasons based on which we need to collect your personal data: 
+1. Part of the Services can be provided only after your data is obtained. 
+
+2. Your data will help us optimize the products and Services to better meet your needs and provide you with more convenient, customized services."</string>
+    <string name="content_save_protect_privacymessage">"To ensure that your data will not be accessed, used or disclosed without authorization, Meizu uses generally-accepted industrial security standards and take encryption measures to protect users' personal identity information and data. In the area of technology, Meizu employs antivirus software, encryption protection, and monitoring systems to enhance the defense and protection for Meizu Data Center. In the aspect of system, Meizu ensures its employees understand the importance of data protection through security and privacy protection training. However, due to the inherent defects of and the running risks on the internet, Meizu does not guarantee that your data is absolutely secure."</string>
+    <string name="content_third_part">"1. You shall bear legal responsibility for all risks caused by using, browsing or visiting third-party websites and/or advertisements in any manner (whether by or through the Services or not). When you use, browse or visit third-party websites and advertisements, you shall observe terms and policies applicable to such third parties. 
+
+2. The Services contain user content provided by other users. Your interaction with other users is a behavior between you and such other users only. Meizu does not control and shall not bear any legal responsibility for such user content; nor does Meizu assume any obligation to check, monitor, examine or approve such user content. You agree to be solely liable for all consequences and risks caused by using such user content and/or interacting with other users."</string>
+    <string name="content_third_part_links_products">Where texts or icons indicate a service is from a third party in the Services, such service and its final content is determined and provided by the third party. We do not carry out any form of censorship on the content, and shall not be responsible for the security or privacy of any data collected by such websites or other services. You shall exercise caution and view the privacy statements applicable to the third-party websites and services you use.</string>
+    <string name="content_title_other">"1. Feedback 
+By submitting suggestion (or “feedback”) to Meizu, you transfer to Meizu all the rights concerning such feedback and agree that Meizu has the right to use the feedback and its related information in any reasonable manner. We will consider such feedback information as non-confidential and non-proprietary. You have agreed that you will not provide to Meizu any information you consider confidential and proprietary. We will reserve our right (not obligation) to examine user content at our discretion. With or without notice, we have the right to delete or move your user content for any reason and at any time. According the provisions above, you have the right to retain or discontinue your Account. 
+
+2. Applicable laws 
+This Agreement (including the Privacy Statement) is governed by the laws of the People's Republic of China. Any disputes arising therefrom shall be settled through friendly consultations. In case such consultations fail, the dispute shall be submitted to the court in the area where Meizu is located for settlement. 
+© Meizu Technology"</string>
+    <string name="content_update_privacy">In keeping with the products, Services and laws and regulations, this Privacy Statement will be modified or amended from time to time, which will be published promptly once it happens. You can continue to use the Services after such modifications or amendments, which will be deemed as having accepted our modifications or amendments to this Privacy Statement.</string>
+    <string name="cookies_otherskills">"
+Cookies and other technologies"</string>
+    <string name="damage_payment">"
+Damages"</string>
+    <string name="desc_content">"1. User content means the entire content (such as messages, pictures, and music, among others) the User upload, download, publish or generate by other means when using the Services. 
+
+2. When uploading, posting, publishing, or using user content in other manners on platforms associated with the Services, you automatically grant to us an irrevocable, non-exclusive, free-of-charge, transferrable and world-wide license to use (including but not limited to reproducing, distributing, disseminating online, publicly displaying and performing, making derivative works based upon, and incorporating into other works) such contents, and undertake and guarantee that you have the right to grant the aforesaid license to us."</string>
+    <string name="desc_rights_obligations">"After entering into these Terms, you shall have the following rights and obligations: 
+1. You have the right to legally use the Services; 
+2. You have the right to download, install, and use Flyme and its related services on smart mobile devices you own; 
+3. The ownership of Meizu accounts shall belong to Meizu, and you only have the right to use your Meizu account under these Terms. In consideration of account security, you must not use any other persons name, Identity document, phone number or email address to register for a Meizu account. After completing the registration procedure, you receive the right to use the registered Meizu account; such right belongs only to the original person who registered the Account, and must not be given, lent, leased, transferred, or sold to anyone. Meizu has the right to withdraw the Users right to use a Meizu account according to related laws and regulations, these Terms or operational needs. 
+4. You have the right to modify and delete the personal profile, registration information, posted content and other information you upload, publish or post in the Services, yet please note that deleting relevant information will also remove any text or picture you store in the Services, and all risks arising therefrom shall be assumed by yourself. 
+5. You have the obligation to keep your registration information and Account password safe, and shall bear legal responsibility for acts under your registered Account and password. Under no circumstances shall you user another user’s Account or password. When you suspect that another user is using your Account or password, you shall notify Meizu immediately. 
+6. Restrictions on rights: 
+You shall not in any form license, sell, lease, transfer, distribute or otherwise commercially exploit the Services (including but not limited to the Advertising Information in the contents or products), or in any form or by any means reproduce, distribute, republish, download, display, post, modify, translate, incorporate, utilize, disassemble or decompile any part of the Services. 
+You shall not use the Services for the purpose of creating similar or competitive services. 
+During your use of the Services, you shall undertake all risks caused by any of the following acts and assume all legal responsibilities arising therefrom: breaking the cardinal principles set forth in the Constitution; harming State security, State secrecy, State power and national unification; impairing State honor and interests; instigating ethnic hatred or discrimination, or undermining national unity; breaking State religious policy, or propagating heretical or superstitious ideas; disseminating rumors, or disrupting social order and stability; disseminating obscenity, pornography, gambling, violence, murder or terror, or abetting crime; humiliating or slandering others, or infringing the lawful rights or interests of others; producing, copying, publishing or transmitting information containing contents forbidden by laws and regulations. 
+You shall not use the Services for any of the following conducts: uploading or publishing computer viruses, worms, malicious code, or software that intentionally damages or alters computer system or data; collecting other users information or data, such as email addresses, without authorization; disabling the network connection of the Services, causing overburden to the Services, or interfering with or damaging the server and network links of the Services in any other manner; attempting to access the server or network links of the Services without authorization; interfering with or disrupting other users use of the Services."</string>
+    <string name="desc_rule">"1. You may use or browse part of the functions or contents of the Services without registering for or logging in to a user account. Nevertheless, if you intend to use more functions of the Services, you must register for a Meizu account or a related sub-account (hereinafter referred to as “Account”) and provide your personal information according to the Cybersecurity Law of the People's Republic of China and other relevant legal provisions, as well as the Account registration requirements; such personal information includes but is not limited to your real name, ID number, mailing address, phone number, and email address, and shall be subject to the requirements on the Account registration screen. You may request us to close your Account at any time, and we will retain or terminate your Account under the provisions of these Terms. 
+
+2. You hereby agree, undertake, and guarantee that: 
+You shall assume full responsibility for the authenticity, legality and validity of your registration information, and shall not impersonate any person, publish any information in another person’s name, or maliciously cause misidentification using the registered Account; otherwise, we have the right to discontinue the Services, and you shall solely bear all consequences and legal responsibilities arising therefrom. 
+
+You shall use the Services legally and be responsible for all acts and behaviors under your registered Account, including any content publication through your Account and any consequence arising from such acts. You shall make your own judgment about contents published by other users through the Services, and undertake all risks resulting from your use or trust of such contents, including risks caused by your reliance on the correctness, completeness, or practicability of such contents. Meizu cannot and will not be liable for any loss or damage incurred by any user behavior. 
+
+You shall take sole responsibility for the secrecy of the account information and password of your Account, and take appropriate measures to prevent your account information, login information, or password from being obtained or used by others. 
+
+In the event that you find any use of your Account may violate the law, or has been or is suspected to be unauthorized, you shall notify us promptly so that we can help stop such acts and prevent potential risks; otherwise, you shall be held responsible for all consequents and legal responsibilities arising therefrom. 
+
+All information you make public or publish through the Services (such as comments, reviews, and posts, among others) is deemed as your voluntarily disclosed information, which you are aware can be freely viewed or accessed by any person. By publishing any information using the Services, you undertake that the publication of such information does not violate any obligation of confidentiality, acknowledge that such information is open information, and agree that you shall bear sole responsibility for such publication. Any information that you have no right to publish or do not want others to learn shall not be made public or published in the Services. 
+
+3. You understand, and hereby agree and confirm that: 
+We have the right to unilaterally modify, suspend, restrict, terminate, or withdraw the Services wholly or partly at any time without prior notice, indemnity or compensation to you; all risks arising therefrom share be assumed solely by you. 
+
+The Services may include advertisements, business promotions, or other events or contents (hereinafter referred to as “Advertising Information”). When providing the Services, we will show or display Advertising Information of us and/or our clients, providers or partners; you agree to receive such Advertising Information."</string>
+    <string name="desc_rule_intl">"1. You may use or browse part of the functions or contents of the Services without registering for or logging in to a user account. Nevertheless, if you intend to use more functions of the Services, you must register for a Meizu account or a related sub-account (hereinafter referred to as “Account”) and provide your personal information according to the Cybersecurity Law of the People's Republic of China and other relevant legal provisions, as well as the Account registration requirements; such personal information includes but is not limited to your real name, ID number, mailing address, phone number, and email address, and shall be subject to the requirements on the Account registration screen. You may request us to close your Account at any time, and we will retain or terminate your Account under the provisions of these Terms. 
+
+2. You hereby agree, undertake, and guarantee that: 
+You shall assume full responsibility for the authenticity, legality and validity of your registration information, and shall not impersonate any person, publish any information in another person’s name, or maliciously cause misidentification using the registered Account; otherwise, we have the right to discontinue the Services, and you shall solely bear all consequences and legal responsibilities arising therefrom. 
+
+You shall use the Services legally and be solely responsible for all acts and behaviors under your registered Account, including any content publication through your Account and any consequence arising from such acts. You shall make your own judgment about contents published by other users through the Services, and undertake all risks resulting from your use or trust of such contents, including risks caused by your reliance on the correctness, completeness, or practicability of such contents. Meizu cannot and will not be liable for any loss or damage incurred by any user behavior. 
+
+You shall take sole responsibility for the secrecy of the account information and password of your Account, and take appropriate measures to prevent your account information, login information, or password from being obtained or used by others. 
+
+In the event that you find any use of your Account may violate the law, or has been or is suspected to be unauthorized, you shall notify us promptly so that we can help stop such acts and prevent potential risks; otherwise, you shall be held responsible for all consequents and legal responsibilities arising therefrom. 
+
+All information you make public or publish through the Services (such as comments, reviews, and posts, among others) is deemed as your voluntarily disclosed information, which you are aware can be freely viewed or accessed by any person. By publishing any information using the Services, you undertake that the publication of such information does not violate any obligation of confidentiality, acknowledge that such information is open information, and agree that you shall bear sole responsibility for such publication. Any information that you have no right to publish or do not want others to learn shall not be made public or published in the Services. 
+
+3. You understand, and hereby agree and confirm that: 
+We have the right to unilaterally modify, suspend, restrict, terminate, or withdraw the Services wholly or partly at any time without prior notice, indemnity or compensation to you; all risks arising therefrom share be assumed solely by you. 
+
+The Services may include advertisements, business promotions, or other events or contents (hereinafter referred to as “Advertising Information”). When providing the Services, we will show or display Advertising Information of us and/or our clients, providers or partners; you agree to receive such Advertising Information."</string>
+    <string name="desc_service">"1. We will at our own discretion provide one or several of the following Flyme services to the User: 
+1) Flyme services built in Meizu phones; 
+2) services on Meizus official website (www.meizu.com) and/or other websites operated by us; 
+3) apps of Flyme; 
+4) other technologies and/or services we provide in relation to Flyme. 
+(The platform which all the aforesaid services are based on is hereinafter referred to as the “Flyme Platform”.) 
+
+2. All the services provided for the User by Flyme shall only be used by the User on the Flyme Platform. Any act that separates the service content provided by Flyme from the Flyme Platform through malicious cracking or by other illegal means does not belong to the Services specified in these Terms. Any legal consequence arising therefrom shall be borne by the actor, and Meizu will hold the actor accountable in accordance with the law."</string>
+    <string name="disclaimer">"
+Disclaimer"</string>
+    <string name="how_collect_privacymessage">"
+How we collect personal data"</string>
+    <string name="how_user_collect_privacymessage">"
+How we use collected personal data"</string>
+    <string name="information_disclosure">"
+Disclosure of data"</string>
+    <string name="intellectual_property_protection">"
+Protection of Intellectual Property Rights"</string>
+    <string name="legal_responsibility">"
+Legal liabilities"</string>
+    <string name="modification_termination">"
+Modification and Termination"</string>
+    <string name="new_title_privacy">"
+Privacy Statement"</string>
+    <string name="reasone_collect_privacymessage">"
+Reasons we collect personal data"</string>
+    <string name="rule_userWaringTip_intl">"In respect of any user, act, or content that violates laws and regulations or these Terms, infringes, impairs or threatens any person’s lawful rights, personal security or property safety, or personates any person, we have the right, in accordance with the law, to prevent or stop the transmission or discontinue the Services, and take appropriate actions, including but not limited to deleting related contents, terminating such user’s qualification, preventing such user from using the Services, and saving and reporting related information to governing authorities. 
+Applications associated with the Services will access the internet (get “internet access”), use your location (get “location access”) or read your personal information when necessary, including but not limited to the following circumstances: 
+(1) User Center Services will read your messages to get verification codes for quicker registration. 
+(2) Data Sync will synchronize your contacts, messages and call logs to the cloud to secure your data. 
+(3) Security will read your contacts, call logs and messages to block spam calls and messages. 
+(4) For greater accuracy, Meizu Account, Phone, Network Location, System UI Tools, Security, Pedometer, Messages, Battery Manager, NetAdmin, Crash Reporter and Themes will enable location services when the phone is connected to the internet. 
+(5) The following apps and services can only function properly when connected to the internet: Phone Finder Services, Data Sync, Weather, User Center, Meizu Account, App Store, Themes, Security, Pedometer, Package Installer, Messages, System Framework Services, Search, System UI Tools, System Launcher, Easy Mode, Network Location, Phone, Flyme Communications, Battery Manager, and others. 
+To this end, you shall solely bear all message costs, data fees and other related charges imposed by third parties (including but not limited to your mobile carrier) in relation to and in connection with the Services connecting to the internet. Value-added service costs incurred by your purchase of value-added services will be charged by the providers of such services, whom you can consult on relevant rates and charges. 
+Location services might record your location information and use it for each service we provide for you. Third-party applications you install by yourself on Flyme might also invoke Flyme location services. In this respect, we kindly suggest that you pay close attention to whether location services are enabled when you use a third-party application, so as to protect your location information."</string>
+    <string name="save_protect_privacymessage">"
+How we store and secure personal data"</string>
+    <string name="third_part">"
+Third Parties"</string>
+    <string name="third_part_links_products">"
+Third-party links and products"</string>
+    <string name="title_other">"
+Miscellaneous"</string>
+    <string name="title_service">"
+Service Description"</string>
+    <string name="update_privacy">"
+Renewal of the Privacy Statement"</string>
+    <string name="user_alert">"Thank you for using Flyme Smart Device Operating System. 
+
+These Terms of Use (hereinafter referred to as “Terms”) are the terms and conditions you shall comply with to use Flyme Smart Device Operating System (“Flyme”) and/or other related services (containing Flyme services, which include but are not limited to data synchronization, phone security, interaction and communication, internet value-added services, e-commerce, and other products and services; hereinafter referred to as “Services”) related to or specified in these Terms and provided by Meizu Technology Co., Ltd. and/or its affiliated companies (“Meizu”, “we”, “our”, or “us”). Meizu and the user of the Services (“User” or “you”, which means an individual or organization that registers for, logs in to or uses the Services; more frequently referred to as “you” in these Terms) hereby enter into and agree to be bound by these Terms. 
+
+Meizu in particular reminds the User to carefully read (minors shall read with the help of their legal guardians) and fully understand all the terms and conditions of these Terms, especially those excluding or limiting the liability of Meizu (such terms and conditions often contain “assumes no responsibility”, “shall not be liable”, or other expressions alike) and others limiting the User’s rights (such terms and conditions often contain “shall not” or other expressions alike), which shall apply to the maximum extent permitted by the law of China. Unless you accept all the terms and conditions of these Terms, you have no right to register for, log in to, or use the Services. Your registration, login, use, or other acts will be deemed as your acceptance of these Terms and your agreement to being bound by each term and condition of these Terms. 
+
+Your acceptance of these Terms includes permission for Meizu to make any amendment to any term or condition of these Terms at any time. Meizu has the right to modify these Terms at any time; the modified Terms will be published in an update of the Flyme system, on Flyme’s official website, or in other manners deemed appropriate by Meizu, and shall substitute the original terms and conditions of these Terms once published, without separate notice to each user. Users may check the latest version of these Terms on Flymes official website. Provided that you do not accept the modified Terms, you shall cease using the Services immediately, and Meizu has the right to stop providing Flyme services for you. If you continue using the Services, you will be deemed to have accepted the modified Terms."</string>
+    <string name="user_alert_intl">"Thank you for using Flyme Smart Device Operating System. 
+
+These Terms of Use (hereinafter referred to as “Terms”) are the terms and conditions you shall comply with to use Flyme Smart Device Operating System (“Flyme”) and/or other related services (containing Flyme services, which include but are not limited to data synchronization, phone security, interaction and communication, internet value-added services, e-commerce, and other products and services; hereinafter referred to as “Services”) related to or specified in these Terms and provided by Meizu Technology Co., Ltd. and/or its affiliated companies (“Meizu”, “we”, “our”, or “us”). Meizu and the user of the Services (“User” or “you”, which means an individual or organization that registers for, logs in to or uses the Services; more frequently referred to as “you” in these Terms) hereby enter into and agree to be bound by these Terms. 
+
+Meizu in particular reminds the User to carefully read (minors shall read with the help of their legal guardians) and fully understand all the terms and conditions of these Terms, especially those excluding or limiting the liability of Meizu (such terms and conditions often contain “assumes no responsibility”, “shall not be liable”, or other expressions alike) and others limiting the User’s rights (such terms and conditions often contain “shall not” or other expressions alike), which shall apply to the maximum extent permitted by the laws of China and other related countries or regions. Unless you accept all the terms and conditions of these Terms, you have no right to register for, log in to, or use the Services. Your registration, login, use, or other acts will be deemed as your acceptance of these Terms and your agreement to being bound by each term and condition of these Terms. 
+
+Your acceptance of these Terms includes permission for Meizu to make any amendment to any term or condition of these Terms at any time. Meizu has the right to modify these Terms at any time; the modified Terms will be published in an update of the Flyme system at least on Flyme’s official website, and in other manners deemed appropriate by Meizu, and shall substitute the original terms and conditions of these Terms once published, without separate notice to each user. Users always may check the latest version of these Terms on Flyme’s official website. Provided that you do not accept the modified Terms, you shall cease using the Services immediately, and Meizu has the right to stop providing Flyme services for you. If you continue using the Services, you will be deemed to have accepted the modified Terms."</string>
+    <string name="user_content">"
+User Content"</string>
+    <string name="user_protocol">User Agreement</string>
+    <string name="user_rights_obligations">"
+User's Rights and Obligations"</string>
+    <string name="user_rule">"
+Service Rules"</string>
+    <string name="byteShort">B</string>
+    <string name="fit_action_view">fitActionView</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="invite_desc">"• Locate the phone when it is lost
+• Backup and syncing Contacts, Messages and Gallery
+•Enjoy convenient life services 
+•Get more previliges by escalating your levels"</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="link_speed">%1$d Mbps</string>
+    <string name="mc_selectionbutton_all">All</string>
+    <string name="megabyteShort">MB</string>
+    <string name="model">Model</string>
+    <string name="passpoint_content">%1$s credentials</string>
+    <string name="passpoint_label">Saved via</string>
+    <string name="password_length_limited">密码长度最多64位</string>
+    <string name="petabyteShort">PB</string>
+    <string name="phoneModel">model</string>
+    <string name="romAvialibleSize">AS</string>
+    <string name="romTotalSize">TS</string>
+    <string name="settings_package">com.android.settings</string>
+    <string name="simTray">SimTray</string>
+    <string name="systemVersion">Ver</string>
+    <string name="terabyteShort">TB</string>
+    <string name="wifi_add_network">Add network</string>
+    <string name="wifi_advanced_settings_label">IP settings</string>
+    <string name="wifi_band_24ghz">2.4 GHz</string>
+    <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="wifi_frequency">Frequency</string>
+    <string name="wifi_ip_settings_invalid_dns">Type a valid DNS address.</string>
+    <string name="wifi_ip_settings_invalid_gateway">Type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Type a valid IP address.</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">Type a network prefix length between 0 and 32.</string>
+    <string name="wireless_networks_settings_title">Wireless &amp; networks</string>
+</resources>
