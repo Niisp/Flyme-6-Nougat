@@ -259,12 +259,12 @@ However, this feature will mute your speaker, so you might miss phone calls and 
     <string name="mzuc_wait_tip">Please wait</string>
     <string name="mzuc_warn_later">Remind Later</string>
     <string name="net_error">Network connection error. Please try again later</string>
-    <string name="new_edit_name_template">Clip <g id="NUMBER">%d</g></string>
-    <string name="new_file_name_template">New Recording <g id="NUMBER">%d</g></string>
+    <string name="new_edit_name_template">Clip %d</string>
+    <string name="new_file_name_template">New Recording %d</string>
     <string name="next_step">Next</string>
     <string name="no_net">No network connection. Please check your network settings.</string>
     <string name="no_orders">No Orders</string>
-    <string name="notification_ongoing_recorder_format"><g id="duration">%s</g></string>
+    <string name="notification_ongoing_recorder_format">%s</string>
     <string name="notification_recording">Recording</string>
     <string name="notification_translation_fail">Conversion failed</string>
     <string name="notification_translation_success">Conversion successful</string>

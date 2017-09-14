@@ -132,7 +132,7 @@
     <string name="bluetooth_history_button_resend">Resend</string>
     <string name="bluetooth_history_button_view_single_file">View</string>
     <string name="bluetooth_history_message_receive_failure_number">Failed to receive %1$s file(s);</string>
-    <string name="bluetooth_history_message_send_success_number">%1$sfile(s) sent successfully;</string>
+    <string name="bluetooth_history_message_send_success_number">%1$s file(s) sent successfully;</string>
     <string name="bluetooth_history_receive_failure_number">Failed to receive %1$s file(s)</string>
     <string name="bluetooth_history_receive_success_number">%1$s file(s) received</string>
     <string name="bluetooth_history_send_failure_number">Failed to send %1$s file(s)</string>

@@ -159,8 +159,8 @@
     <string name="cloud_nitifi_downloaded">downloaded</string>
     <string name="cloud_nitifi_downloading">downloading</string>
     <string name="cloud_nitifi_paused">" paused"</string>
-    <string name="cloud_nitifi_trans_content0">%1$ %2$d item(s)</string>
-    <string name="cloud_nitifi_trans_content0_finish">%2$d item(s) %1$ successfully</string>
+    <string name="cloud_nitifi_trans_content0">%1$s %2$d item(s)</string>
+    <string name="cloud_nitifi_trans_content0_finish">%2$d item(s) %1$s successfully</string>
     <string name="cloud_nitifi_trans_content1">%1$s %2$d item(s)</string>
     <string name="cloud_nitifi_trans_lowpower">Continue to transfer?</string>
     <string name="cloud_nitifi_trans_lowpower_continue">Tap to continue</string>
